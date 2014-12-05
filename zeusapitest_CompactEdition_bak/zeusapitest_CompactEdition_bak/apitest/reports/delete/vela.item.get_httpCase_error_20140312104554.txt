@@ -1,0 +1,620 @@
+<html>
+<pre>
+ 
+====================================================================
+ zeusURL  http://192.168.66.250:8083/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=A507BD26844F3AA12A279F84F343679C&currency=CLP&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.getvelaURL  http://192.168.66.250/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=A507BD26844F3AA12A279F84F343679C&currency=CLP&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get_False
+
+====================================================================
+ Zeus: {u'info': {u'item': {u'original_price': u'12953', u'is_specials': False, u'qty_order_min': u'1', u'sku_combinations': [], u'cate_show_imgs': {u'list': {u'square': u'http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg'}, u'grid': {u'square': u'http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg'}, u'gallery': {u'square': u'http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg'}}, u'qty_order_max': 999, u'favorite_times': 0, u'sales_promotion_end_date': None, u'currency': u'CLP', u'review_rating': 5, u'item_icon': None, u'item_imgs': [{u'position': 1, u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg', u'img_id': u'201310/dzej1381485062664.jpg'}], u'item_imgs_small': [{u'position': 1, u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg', u'img_id': u'201310/dzej1381485062664.jpg'}], u'is_freeshipping': False, u'main_img_url': u'http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg', u'qty_min_unit': u'1', u'stock_available_skus': [], u'item_url': u'http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html', u'is_promotions': False, u'item_name': u'Moon Light Mp3 Player 256 Mb Aiao-801A', u'item_img_shape': u'rectangle', u'short_desc': u'Moon Light Mp3 Player 256 Mb Aiao-801A', u'is_virtual': False, u'auto_post': False, u'save_price': 3995, u'sale_price': 8958, u'display_id': u'00000001', u'is_discount': False, u'distribute_unavailable_skus': [], u'item_status': u'outofstock', u'discount': 0, u'is_price_reduction': True, u'thumbnail_img_url': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg', u'sales_type': u'distribute', u'stuff_status': u'new', u'item_id': 1, u'review_count': 1, u'is_sale': False, u'skus': [], u'display_text': u'Moon Light Mp3 Player 256 Mb Aiao-801A', u'detail_desc': u'', u'cid': u'71', u'item_icons': [], u'main_img_name': u'201310/dzej1381485062664.jpg', u'desc_url': u'http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html', u'sales_promotion_title': u'', u'is_recommended': False, u'template_id': u'204'}}, u'code': u'1000000', u'result': u'success', u'error_msg': []}
+
+--------------------------------------------------------------------
+ Vela: {u'info': {u'item': {u'original_price': 12953, u'is_specials': False, u'qty_order_min': u'1', u'sku_combinations': [], u'cate_show_imgs': {u'grid': {u'square': u'http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg'}, u'list': {u'square': u'http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg'}, u'gallery': {u'square': u'http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg'}}, u'qty_order_max': 999, u'favorite_times': 0, u'sales_promotion_end_date': None, u'currency': u'CLP', u'item_icon': None, u'item_imgs': [{u'img_id': u'201310/dzej1381485062664.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg', u'position': 1}], u'item_imgs_small': [{u'img_id': u'201310/dzej1381485062664.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg', u'position': 1}], u'is_freeshipping': False, u'main_img_url': u'http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg', u'qty_min_unit': u'1', u'stock_available_skus': [], u'item_url': u'http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html', u'is_promotions': False, u'item_name': u'bulan cahaya mp3 player 256 mb aiao-801a', u'item_img_shape': u'rectangle', u'short_desc': u'bulan cahaya mp3 player 256 mb aiao-801a', u'is_virtual': False, u'auto_post': False, u'save_price': 3995, u'sale_price': 8958, u'display_id': u'00000001', u'is_discount': False, u'distribute_unavailable_skus': [], u'item_status': u'outofstock', u'discount': 0, u'is_price_reduction': True, u'thumbnail_img_url': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg', u'sales_type': u'distribute', u'review_rating': 5, u'stuff_status': u'new', u'item_id': 1, u'review_count': 1, u'is_sale': False, u'skus': [], u'display_text': u'bulan cahaya mp3 player 256 mb aiao-801a', u'detail_desc': u'', u'cid': u'71', u'item_icons': [], u'main_img_name': u'201310/dzej1381485062664.jpg', u'desc_url': u'http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html', u'sales_promotion_title': u'', u'is_recommended': False, u'template_id': u'204'}}, u'code': u'1000000', u'result': u'success', u'error_msg': []}
+
+--------------------------------------------------------------------
+ Zeus output
+       1	{
+     2	 "code": "1000000", 
+     3	 "error_msg": [], 
+     4	 "info": {
+     5	  "item": {
+     6	   "auto_post": false, 
+     7	   "cate_show_imgs": {
+     8	    "gallery": {
+     9	     "rectangle": "http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg", 
+    10	     "square": "http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg"
+    11	    }, 
+    12	    "grid": {
+    13	     "rectangle": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg", 
+    14	     "square": "http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg"
+    15	    }, 
+    16	    "list": {
+    17	     "rectangle": "http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg", 
+    18	     "square": "http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg"
+    19	    }
+    20	   }, 
+    21	   "cid": "71", 
+    22	   "currency": "CLP", 
+    23	   "desc_url": "http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html", 
+    24	   "detail_desc": "", 
+    25	   "discount": 0, 
+    26	   "display_id": "00000001", 
+    27	   "display_text": "Moon Light Mp3 Player 256 Mb Aiao-801A", 
+    28	   "distribute_unavailable_skus": [], 
+    29	   "favorite_times": 0, 
+    30	   "is_discount": false, 
+    31	   "is_freeshipping": false, 
+    32	   "is_price_reduction": true, 
+    33	   "is_promotions": false, 
+    34	   "is_recommended": false, 
+    35	   "is_sale": false, 
+    36	   "is_specials": false, 
+    37	   "is_virtual": false, 
+    38	   "item_icon": null, 
+    39	   "item_icons": [], 
+    40	   "item_id": 1, 
+    41	   "item_img_shape": "rectangle", 
+    42	   "item_imgs": [
+    43	    {
+    44	     "img_id": "201310/dzej1381485062664.jpg", 
+    45	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg", 
+    46	     "position": 1
+    47	    }
+    48	   ], 
+    49	   "item_imgs_small": [
+    50	    {
+    51	     "img_id": "201310/dzej1381485062664.jpg", 
+    52	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg", 
+    53	     "position": 1
+    54	    }
+    55	   ], 
+    56	   "item_name": "Moon Light Mp3 Player 256 Mb Aiao-801A", 
+    57	   "item_status": "outofstock", 
+    58	   "item_url": "http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html", 
+    59	   "main_img_name": "201310/dzej1381485062664.jpg", 
+    60	   "main_img_url": "http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg", 
+    61	   "original_price": "12953", 
+    62	   "qty_min_unit": "1", 
+    63	   "qty_order_max": 999, 
+    64	   "qty_order_min": "1", 
+    65	   "review_count": 1, 
+    66	   "review_rating": 5, 
+    67	   "sale_price": 8958, 
+    68	   "sales_promotion_end_date": null, 
+    69	   "sales_promotion_title": "", 
+    70	   "sales_type": "distribute", 
+    71	   "save_price": 3995, 
+    72	   "short_desc": "Moon Light Mp3 Player 256 Mb Aiao-801A", 
+    73	   "sku_combinations": [], 
+    74	   "skus": [], 
+    75	   "stock_available_skus": [], 
+    76	   "stuff_status": "new", 
+    77	   "template_id": "204", 
+    78	   "thumbnail_img_url": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg"
+    79	  }
+    80	 }, 
+    81	 "result": "success"
+    82	}
+--------------------------------------------------------------------
+ Vela output 
+      1	{
+     2	 "code": "1000000", 
+     3	 "error_msg": [], 
+     4	 "info": {
+     5	  "item": {
+     6	   "auto_post": false, 
+     7	   "cate_show_imgs": {
+     8	    "gallery": {
+     9	     "rectangle": "http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg", 
+    10	     "square": "http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg"
+    11	    }, 
+    12	    "grid": {
+    13	     "rectangle": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg", 
+    14	     "square": "http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg"
+    15	    }, 
+    16	    "list": {
+    17	     "rectangle": "http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg", 
+    18	     "square": "http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg"
+    19	    }
+    20	   }, 
+    21	   "cid": "71", 
+    22	   "currency": "CLP", 
+    23	   "desc_url": "http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html", 
+    24	   "detail_desc": "", 
+    25	   "discount": 0, 
+    26	   "display_id": "00000001", 
+    27	   "display_text": "bulan cahaya mp3 player 256 mb aiao-801a", 
+    28	   "distribute_unavailable_skus": [], 
+    29	   "favorite_times": 0, 
+    30	   "is_discount": false, 
+    31	   "is_freeshipping": false, 
+    32	   "is_price_reduction": true, 
+    33	   "is_promotions": false, 
+    34	   "is_recommended": false, 
+    35	   "is_sale": false, 
+    36	   "is_specials": false, 
+    37	   "is_virtual": false, 
+    38	   "item_icon": null, 
+    39	   "item_icons": [], 
+    40	   "item_id": 1, 
+    41	   "item_img_shape": "rectangle", 
+    42	   "item_imgs": [
+    43	    {
+    44	     "img_id": "201310/dzej1381485062664.jpg", 
+    45	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg", 
+    46	     "position": 1
+    47	    }
+    48	   ], 
+    49	   "item_imgs_small": [
+    50	    {
+    51	     "img_id": "201310/dzej1381485062664.jpg", 
+    52	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg", 
+    53	     "position": 1
+    54	    }
+    55	   ], 
+    56	   "item_name": "bulan cahaya mp3 player 256 mb aiao-801a", 
+    57	   "item_status": "outofstock", 
+    58	   "item_url": "http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html", 
+    59	   "main_img_name": "201310/dzej1381485062664.jpg", 
+    60	   "main_img_url": "http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg", 
+    61	   "original_price": 12953, 
+    62	   "qty_min_unit": "1", 
+    63	   "qty_order_max": 999, 
+    64	   "qty_order_min": "1", 
+    65	   "review_count": 1, 
+    66	   "review_rating": 5, 
+    67	   "sale_price": 8958, 
+    68	   "sales_promotion_end_date": null, 
+    69	   "sales_promotion_title": "", 
+    70	   "sales_type": "distribute", 
+    71	   "save_price": 3995, 
+    72	   "short_desc": "bulan cahaya mp3 player 256 mb aiao-801a", 
+    73	   "sku_combinations": [], 
+    74	   "skus": [], 
+    75	   "stock_available_skus": [], 
+    76	   "stuff_status": "new", 
+    77	   "template_id": "204", 
+    78	   "thumbnail_img_url": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg"
+    79	  }
+    80	 }, 
+    81	 "result": "success"
+    82	}
+--------------------------------------------------------------------
+ zeus output VS Vela output
+--------------------------------------------------------------------
+ 23c23
+<    desc_url: http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html, 
+---
+>    desc_url: http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html, 
+27c27
+<    display_text: Moon Light Mp3 Player 256 Mb Aiao-801A, 
+---
+>    display_text: bulan cahaya mp3 player 256 mb aiao-801a, 
+56c56
+<    item_name: Moon Light Mp3 Player 256 Mb Aiao-801A, 
+---
+>    item_name: bulan cahaya mp3 player 256 mb aiao-801a, 
+58c58
+<    item_url: http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html, 
+---
+>    item_url: http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html, 
+70c70
+<    short_desc: Moon Light Mp3 Player 256 Mb Aiao-801A, 
+---
+>    short_desc: bulan cahaya mp3 player 256 mb aiao-801a, 
+
+zeus url: http://zeus-m.lightinthebox.com:8083/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=A507BD26844F3AA12A279F84F343679C&currency=CLP&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get
+vela url: http://zeus-m.lightinthebox.com/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=A507BD26844F3AA12A279F84F343679C&currency=CLP&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get
+
+====================================================================
+ zeusURL  http://192.168.66.250:8083/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=E42AC3A8122D013CCB55B13AEA4C3BBE&currency=JPY&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.getvelaURL  http://192.168.66.250/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=E42AC3A8122D013CCB55B13AEA4C3BBE&currency=JPY&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get_False
+
+====================================================================
+ Zeus: {u'info': {u'item': {u'original_price': u'2618', u'is_specials': False, u'qty_order_min': u'1', u'sku_combinations': [], u'cate_show_imgs': {u'list': {u'square': u'http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg'}, u'grid': {u'square': u'http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg'}, u'gallery': {u'square': u'http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg'}}, u'qty_order_max': 999, u'favorite_times': 0, u'sales_promotion_end_date': None, u'currency': u'JPY', u'review_rating': 5, u'item_icon': None, u'item_imgs': [{u'position': 1, u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg', u'img_id': u'201310/dzej1381485062664.jpg'}], u'item_imgs_small': [{u'position': 1, u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg', u'img_id': u'201310/dzej1381485062664.jpg'}], u'is_freeshipping': False, u'main_img_url': u'http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg', u'qty_min_unit': u'1', u'stock_available_skus': [], u'item_url': u'http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html', u'is_promotions': False, u'item_name': u'Moon Light Mp3 Player 256 Mb Aiao-801A', u'item_img_shape': u'rectangle', u'short_desc': u'Moon Light Mp3 Player 256 Mb Aiao-801A', u'is_virtual': False, u'auto_post': False, u'save_price': 807, u'sale_price': 1811, u'display_id': u'00000001', u'is_discount': False, u'distribute_unavailable_skus': [], u'item_status': u'outofstock', u'discount': 0, u'is_price_reduction': True, u'thumbnail_img_url': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg', u'sales_type': u'distribute', u'stuff_status': u'new', u'item_id': 1, u'review_count': 1, u'is_sale': False, u'skus': [], u'display_text': u'Moon Light Mp3 Player 256 Mb Aiao-801A', u'detail_desc': u'', u'cid': u'71', u'item_icons': [], u'main_img_name': u'201310/dzej1381485062664.jpg', u'desc_url': u'http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html', u'sales_promotion_title': u'', u'is_recommended': False, u'template_id': u'204'}}, u'code': u'1000000', u'result': u'success', u'error_msg': []}
+
+--------------------------------------------------------------------
+ Vela: {u'info': {u'item': {u'original_price': 2618, u'is_specials': False, u'qty_order_min': u'1', u'sku_combinations': [], u'cate_show_imgs': {u'grid': {u'square': u'http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg'}, u'list': {u'square': u'http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg'}, u'gallery': {u'square': u'http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg'}}, u'qty_order_max': 999, u'favorite_times': 0, u'sales_promotion_end_date': None, u'currency': u'JPY', u'item_icon': None, u'item_imgs': [{u'img_id': u'201310/dzej1381485062664.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg', u'position': 1}], u'item_imgs_small': [{u'img_id': u'201310/dzej1381485062664.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg', u'position': 1}], u'is_freeshipping': False, u'main_img_url': u'http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg', u'qty_min_unit': u'1', u'stock_available_skus': [], u'item_url': u'http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html', u'is_promotions': False, u'item_name': u'bulan cahaya mp3 player 256 mb aiao-801a', u'item_img_shape': u'rectangle', u'short_desc': u'bulan cahaya mp3 player 256 mb aiao-801a', u'is_virtual': False, u'auto_post': False, u'save_price': 807, u'sale_price': 1811, u'display_id': u'00000001', u'is_discount': False, u'distribute_unavailable_skus': [], u'item_status': u'outofstock', u'discount': 0, u'is_price_reduction': True, u'thumbnail_img_url': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg', u'sales_type': u'distribute', u'review_rating': 5, u'stuff_status': u'new', u'item_id': 1, u'review_count': 1, u'is_sale': False, u'skus': [], u'display_text': u'bulan cahaya mp3 player 256 mb aiao-801a', u'detail_desc': u'', u'cid': u'71', u'item_icons': [], u'main_img_name': u'201310/dzej1381485062664.jpg', u'desc_url': u'http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html', u'sales_promotion_title': u'', u'is_recommended': False, u'template_id': u'204'}}, u'code': u'1000000', u'result': u'success', u'error_msg': []}
+
+--------------------------------------------------------------------
+ Zeus output
+       1	{
+     2	 "code": "1000000", 
+     3	 "error_msg": [], 
+     4	 "info": {
+     5	  "item": {
+     6	   "auto_post": false, 
+     7	   "cate_show_imgs": {
+     8	    "gallery": {
+     9	     "rectangle": "http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg", 
+    10	     "square": "http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg"
+    11	    }, 
+    12	    "grid": {
+    13	     "rectangle": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg", 
+    14	     "square": "http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg"
+    15	    }, 
+    16	    "list": {
+    17	     "rectangle": "http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg", 
+    18	     "square": "http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg"
+    19	    }
+    20	   }, 
+    21	   "cid": "71", 
+    22	   "currency": "JPY", 
+    23	   "desc_url": "http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html", 
+    24	   "detail_desc": "", 
+    25	   "discount": 0, 
+    26	   "display_id": "00000001", 
+    27	   "display_text": "Moon Light Mp3 Player 256 Mb Aiao-801A", 
+    28	   "distribute_unavailable_skus": [], 
+    29	   "favorite_times": 0, 
+    30	   "is_discount": false, 
+    31	   "is_freeshipping": false, 
+    32	   "is_price_reduction": true, 
+    33	   "is_promotions": false, 
+    34	   "is_recommended": false, 
+    35	   "is_sale": false, 
+    36	   "is_specials": false, 
+    37	   "is_virtual": false, 
+    38	   "item_icon": null, 
+    39	   "item_icons": [], 
+    40	   "item_id": 1, 
+    41	   "item_img_shape": "rectangle", 
+    42	   "item_imgs": [
+    43	    {
+    44	     "img_id": "201310/dzej1381485062664.jpg", 
+    45	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg", 
+    46	     "position": 1
+    47	    }
+    48	   ], 
+    49	   "item_imgs_small": [
+    50	    {
+    51	     "img_id": "201310/dzej1381485062664.jpg", 
+    52	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg", 
+    53	     "position": 1
+    54	    }
+    55	   ], 
+    56	   "item_name": "Moon Light Mp3 Player 256 Mb Aiao-801A", 
+    57	   "item_status": "outofstock", 
+    58	   "item_url": "http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html", 
+    59	   "main_img_name": "201310/dzej1381485062664.jpg", 
+    60	   "main_img_url": "http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg", 
+    61	   "original_price": "2618", 
+    62	   "qty_min_unit": "1", 
+    63	   "qty_order_max": 999, 
+    64	   "qty_order_min": "1", 
+    65	   "review_count": 1, 
+    66	   "review_rating": 5, 
+    67	   "sale_price": 1811, 
+    68	   "sales_promotion_end_date": null, 
+    69	   "sales_promotion_title": "", 
+    70	   "sales_type": "distribute", 
+    71	   "save_price": 807, 
+    72	   "short_desc": "Moon Light Mp3 Player 256 Mb Aiao-801A", 
+    73	   "sku_combinations": [], 
+    74	   "skus": [], 
+    75	   "stock_available_skus": [], 
+    76	   "stuff_status": "new", 
+    77	   "template_id": "204", 
+    78	   "thumbnail_img_url": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg"
+    79	  }
+    80	 }, 
+    81	 "result": "success"
+    82	}
+--------------------------------------------------------------------
+ Vela output 
+      1	{
+     2	 "code": "1000000", 
+     3	 "error_msg": [], 
+     4	 "info": {
+     5	  "item": {
+     6	   "auto_post": false, 
+     7	   "cate_show_imgs": {
+     8	    "gallery": {
+     9	     "rectangle": "http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg", 
+    10	     "square": "http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg"
+    11	    }, 
+    12	    "grid": {
+    13	     "rectangle": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg", 
+    14	     "square": "http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg"
+    15	    }, 
+    16	    "list": {
+    17	     "rectangle": "http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg", 
+    18	     "square": "http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg"
+    19	    }
+    20	   }, 
+    21	   "cid": "71", 
+    22	   "currency": "JPY", 
+    23	   "desc_url": "http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html", 
+    24	   "detail_desc": "", 
+    25	   "discount": 0, 
+    26	   "display_id": "00000001", 
+    27	   "display_text": "bulan cahaya mp3 player 256 mb aiao-801a", 
+    28	   "distribute_unavailable_skus": [], 
+    29	   "favorite_times": 0, 
+    30	   "is_discount": false, 
+    31	   "is_freeshipping": false, 
+    32	   "is_price_reduction": true, 
+    33	   "is_promotions": false, 
+    34	   "is_recommended": false, 
+    35	   "is_sale": false, 
+    36	   "is_specials": false, 
+    37	   "is_virtual": false, 
+    38	   "item_icon": null, 
+    39	   "item_icons": [], 
+    40	   "item_id": 1, 
+    41	   "item_img_shape": "rectangle", 
+    42	   "item_imgs": [
+    43	    {
+    44	     "img_id": "201310/dzej1381485062664.jpg", 
+    45	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg", 
+    46	     "position": 1
+    47	    }
+    48	   ], 
+    49	   "item_imgs_small": [
+    50	    {
+    51	     "img_id": "201310/dzej1381485062664.jpg", 
+    52	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg", 
+    53	     "position": 1
+    54	    }
+    55	   ], 
+    56	   "item_name": "bulan cahaya mp3 player 256 mb aiao-801a", 
+    57	   "item_status": "outofstock", 
+    58	   "item_url": "http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html", 
+    59	   "main_img_name": "201310/dzej1381485062664.jpg", 
+    60	   "main_img_url": "http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg", 
+    61	   "original_price": 2618, 
+    62	   "qty_min_unit": "1", 
+    63	   "qty_order_max": 999, 
+    64	   "qty_order_min": "1", 
+    65	   "review_count": 1, 
+    66	   "review_rating": 5, 
+    67	   "sale_price": 1811, 
+    68	   "sales_promotion_end_date": null, 
+    69	   "sales_promotion_title": "", 
+    70	   "sales_type": "distribute", 
+    71	   "save_price": 807, 
+    72	   "short_desc": "bulan cahaya mp3 player 256 mb aiao-801a", 
+    73	   "sku_combinations": [], 
+    74	   "skus": [], 
+    75	   "stock_available_skus": [], 
+    76	   "stuff_status": "new", 
+    77	   "template_id": "204", 
+    78	   "thumbnail_img_url": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg"
+    79	  }
+    80	 }, 
+    81	 "result": "success"
+    82	}
+--------------------------------------------------------------------
+ zeus output VS Vela output
+--------------------------------------------------------------------
+ 23c23
+<    desc_url: http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html, 
+---
+>    desc_url: http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html, 
+27c27
+<    display_text: Moon Light Mp3 Player 256 Mb Aiao-801A, 
+---
+>    display_text: bulan cahaya mp3 player 256 mb aiao-801a, 
+56c56
+<    item_name: Moon Light Mp3 Player 256 Mb Aiao-801A, 
+---
+>    item_name: bulan cahaya mp3 player 256 mb aiao-801a, 
+58c58
+<    item_url: http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html, 
+---
+>    item_url: http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html, 
+70c70
+<    short_desc: Moon Light Mp3 Player 256 Mb Aiao-801A, 
+---
+>    short_desc: bulan cahaya mp3 player 256 mb aiao-801a, 
+
+zeus url: http://zeus-m.lightinthebox.com:8083/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=E42AC3A8122D013CCB55B13AEA4C3BBE&currency=JPY&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get
+vela url: http://zeus-m.lightinthebox.com/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=E42AC3A8122D013CCB55B13AEA4C3BBE&currency=JPY&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get
+
+====================================================================
+ zeusURL  http://192.168.66.250:8083/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=76E09474759F996169512DDB8CC923BB&currency=ILS&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.getvelaURL  http://192.168.66.250/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=76E09474759F996169512DDB8CC923BB&currency=ILS&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get_False
+
+====================================================================
+ Zeus: {u'info': {u'item': {u'original_price': u'89.89', u'is_specials': False, u'qty_order_min': u'1', u'sku_combinations': [], u'cate_show_imgs': {u'list': {u'square': u'http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg'}, u'grid': {u'square': u'http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg'}, u'gallery': {u'square': u'http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg'}}, u'qty_order_max': 999, u'favorite_times': 0, u'sales_promotion_end_date': None, u'currency': u'ILS', u'review_rating': 5, u'item_icon': None, u'item_imgs': [{u'position': 1, u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg', u'img_id': u'201310/dzej1381485062664.jpg'}], u'item_imgs_small': [{u'position': 1, u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg', u'img_id': u'201310/dzej1381485062664.jpg'}], u'is_freeshipping': False, u'main_img_url': u'http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg', u'qty_min_unit': u'1', u'stock_available_skus': [], u'item_url': u'http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html', u'is_promotions': False, u'item_name': u'Moon Light Mp3 Player 256 Mb Aiao-801A', u'item_img_shape': u'rectangle', u'short_desc': u'Moon Light Mp3 Player 256 Mb Aiao-801A', u'is_virtual': False, u'auto_post': False, u'save_price': 27.72, u'sale_price': 62.17, u'display_id': u'00000001', u'is_discount': False, u'distribute_unavailable_skus': [], u'item_status': u'outofstock', u'discount': 0, u'is_price_reduction': True, u'thumbnail_img_url': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg', u'sales_type': u'distribute', u'stuff_status': u'new', u'item_id': 1, u'review_count': 1, u'is_sale': False, u'skus': [], u'display_text': u'Moon Light Mp3 Player 256 Mb Aiao-801A', u'detail_desc': u'', u'cid': u'71', u'item_icons': [], u'main_img_name': u'201310/dzej1381485062664.jpg', u'desc_url': u'http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html', u'sales_promotion_title': u'', u'is_recommended': False, u'template_id': u'204'}}, u'code': u'1000000', u'result': u'success', u'error_msg': []}
+
+--------------------------------------------------------------------
+ Vela: {u'info': {u'item': {u'original_price': 89.89, u'is_specials': False, u'qty_order_min': u'1', u'sku_combinations': [], u'cate_show_imgs': {u'grid': {u'square': u'http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg'}, u'list': {u'square': u'http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg'}, u'gallery': {u'square': u'http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg'}}, u'qty_order_max': 999, u'favorite_times': 0, u'sales_promotion_end_date': None, u'currency': u'ILS', u'item_icon': None, u'item_imgs': [{u'img_id': u'201310/dzej1381485062664.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg', u'position': 1}], u'item_imgs_small': [{u'img_id': u'201310/dzej1381485062664.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg', u'position': 1}], u'is_freeshipping': False, u'main_img_url': u'http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg', u'qty_min_unit': u'1', u'stock_available_skus': [], u'item_url': u'http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html', u'is_promotions': False, u'item_name': u'bulan cahaya mp3 player 256 mb aiao-801a', u'item_img_shape': u'rectangle', u'short_desc': u'bulan cahaya mp3 player 256 mb aiao-801a', u'is_virtual': False, u'auto_post': False, u'save_price': 27.72, u'sale_price': 62.17, u'display_id': u'00000001', u'is_discount': False, u'distribute_unavailable_skus': [], u'item_status': u'outofstock', u'discount': 0, u'is_price_reduction': True, u'thumbnail_img_url': u'http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg', u'sales_type': u'distribute', u'review_rating': 5, u'stuff_status': u'new', u'item_id': 1, u'review_count': 1, u'is_sale': False, u'skus': [], u'display_text': u'bulan cahaya mp3 player 256 mb aiao-801a', u'detail_desc': u'', u'cid': u'71', u'item_icons': [], u'main_img_name': u'201310/dzej1381485062664.jpg', u'desc_url': u'http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html', u'sales_promotion_title': u'', u'is_recommended': False, u'template_id': u'204'}}, u'code': u'1000000', u'result': u'success', u'error_msg': []}
+
+--------------------------------------------------------------------
+ Zeus output
+       1	{
+     2	 "code": "1000000", 
+     3	 "error_msg": [], 
+     4	 "info": {
+     5	  "item": {
+     6	   "auto_post": false, 
+     7	   "cate_show_imgs": {
+     8	    "gallery": {
+     9	     "rectangle": "http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg", 
+    10	     "square": "http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg"
+    11	    }, 
+    12	    "grid": {
+    13	     "rectangle": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg", 
+    14	     "square": "http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg"
+    15	    }, 
+    16	    "list": {
+    17	     "rectangle": "http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg", 
+    18	     "square": "http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg"
+    19	    }
+    20	   }, 
+    21	   "cid": "71", 
+    22	   "currency": "ILS", 
+    23	   "desc_url": "http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html", 
+    24	   "detail_desc": "", 
+    25	   "discount": 0, 
+    26	   "display_id": "00000001", 
+    27	   "display_text": "Moon Light Mp3 Player 256 Mb Aiao-801A", 
+    28	   "distribute_unavailable_skus": [], 
+    29	   "favorite_times": 0, 
+    30	   "is_discount": false, 
+    31	   "is_freeshipping": false, 
+    32	   "is_price_reduction": true, 
+    33	   "is_promotions": false, 
+    34	   "is_recommended": false, 
+    35	   "is_sale": false, 
+    36	   "is_specials": false, 
+    37	   "is_virtual": false, 
+    38	   "item_icon": null, 
+    39	   "item_icons": [], 
+    40	   "item_id": 1, 
+    41	   "item_img_shape": "rectangle", 
+    42	   "item_imgs": [
+    43	    {
+    44	     "img_id": "201310/dzej1381485062664.jpg", 
+    45	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg", 
+    46	     "position": 1
+    47	    }
+    48	   ], 
+    49	   "item_imgs_small": [
+    50	    {
+    51	     "img_id": "201310/dzej1381485062664.jpg", 
+    52	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg", 
+    53	     "position": 1
+    54	    }
+    55	   ], 
+    56	   "item_name": "Moon Light Mp3 Player 256 Mb Aiao-801A", 
+    57	   "item_status": "outofstock", 
+    58	   "item_url": "http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html", 
+    59	   "main_img_name": "201310/dzej1381485062664.jpg", 
+    60	   "main_img_url": "http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg", 
+    61	   "original_price": "89.89", 
+    62	   "qty_min_unit": "1", 
+    63	   "qty_order_max": 999, 
+    64	   "qty_order_min": "1", 
+    65	   "review_count": 1, 
+    66	   "review_rating": 5, 
+    67	   "sale_price": 62.17, 
+    68	   "sales_promotion_end_date": null, 
+    69	   "sales_promotion_title": "", 
+    70	   "sales_type": "distribute", 
+    71	   "save_price": 27.72, 
+    72	   "short_desc": "Moon Light Mp3 Player 256 Mb Aiao-801A", 
+    73	   "sku_combinations": [], 
+    74	   "skus": [], 
+    75	   "stock_available_skus": [], 
+    76	   "stuff_status": "new", 
+    77	   "template_id": "204", 
+    78	   "thumbnail_img_url": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg"
+    79	  }
+    80	 }, 
+    81	 "result": "success"
+    82	}
+--------------------------------------------------------------------
+ Vela output 
+      1	{
+     2	 "code": "1000000", 
+     3	 "error_msg": [], 
+     4	 "info": {
+     5	  "item": {
+     6	   "auto_post": false, 
+     7	   "cate_show_imgs": {
+     8	    "gallery": {
+     9	     "rectangle": "http://litbimg.rightinthebox.com/images/426x560/201310/dzej1381485062664.jpg", 
+    10	     "square": "http://litbimg.rightinthebox.com/images/500x500/201310/dzej1381485062664.jpg"
+    11	    }, 
+    12	    "grid": {
+    13	     "rectangle": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg", 
+    14	     "square": "http://litbimg.rightinthebox.com/images/290x290/201310/dzej1381485062664.jpg"
+    15	    }, 
+    16	    "list": {
+    17	     "rectangle": "http://litbimg.rightinthebox.com/images/120x194/201310/dzej1381485062664.jpg", 
+    18	     "square": "http://litbimg.rightinthebox.com/images/120x120/201310/dzej1381485062664.jpg"
+    19	    }
+    20	   }, 
+    21	   "cid": "71", 
+    22	   "currency": "ILS", 
+    23	   "desc_url": "http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html", 
+    24	   "detail_desc": "", 
+    25	   "discount": 0, 
+    26	   "display_id": "00000001", 
+    27	   "display_text": "bulan cahaya mp3 player 256 mb aiao-801a", 
+    28	   "distribute_unavailable_skus": [], 
+    29	   "favorite_times": 0, 
+    30	   "is_discount": false, 
+    31	   "is_freeshipping": false, 
+    32	   "is_price_reduction": true, 
+    33	   "is_promotions": false, 
+    34	   "is_recommended": false, 
+    35	   "is_sale": false, 
+    36	   "is_specials": false, 
+    37	   "is_virtual": false, 
+    38	   "item_icon": null, 
+    39	   "item_icons": [], 
+    40	   "item_id": 1, 
+    41	   "item_img_shape": "rectangle", 
+    42	   "item_imgs": [
+    43	    {
+    44	     "img_id": "201310/dzej1381485062664.jpg", 
+    45	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201310/dzej1381485062664.jpg", 
+    46	     "position": 1
+    47	    }
+    48	   ], 
+    49	   "item_imgs_small": [
+    50	    {
+    51	     "img_id": "201310/dzej1381485062664.jpg", 
+    52	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201310/dzej1381485062664.jpg", 
+    53	     "position": 1
+    54	    }
+    55	   ], 
+    56	   "item_name": "bulan cahaya mp3 player 256 mb aiao-801a", 
+    57	   "item_status": "outofstock", 
+    58	   "item_url": "http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html", 
+    59	   "main_img_name": "201310/dzej1381485062664.jpg", 
+    60	   "main_img_url": "http://litbimg.rightinthebox.com/images/380x500/201310/dzej1381485062664.jpg", 
+    61	   "original_price": 89.89, 
+    62	   "qty_min_unit": "1", 
+    63	   "qty_order_max": 999, 
+    64	   "qty_order_min": "1", 
+    65	   "review_count": 1, 
+    66	   "review_rating": 5, 
+    67	   "sale_price": 62.17, 
+    68	   "sales_promotion_end_date": null, 
+    69	   "sales_promotion_title": "", 
+    70	   "sales_type": "distribute", 
+    71	   "save_price": 27.72, 
+    72	   "short_desc": "bulan cahaya mp3 player 256 mb aiao-801a", 
+    73	   "sku_combinations": [], 
+    74	   "skus": [], 
+    75	   "stock_available_skus": [], 
+    76	   "stuff_status": "new", 
+    77	   "template_id": "204", 
+    78	   "thumbnail_img_url": "http://litbimg.rightinthebox.com/images/290x467/201310/dzej1381485062664.jpg"
+    79	  }
+    80	 }, 
+    81	 "result": "success"
+    82	}
+--------------------------------------------------------------------
+ zeus output VS Vela output
+--------------------------------------------------------------------
+ 23c23
+<    desc_url: http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html, 
+---
+>    desc_url: http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_desc2_p1.html, 
+27c27
+<    display_text: Moon Light Mp3 Player 256 Mb Aiao-801A, 
+---
+>    display_text: bulan cahaya mp3 player 256 mb aiao-801a, 
+56c56
+<    item_name: Moon Light Mp3 Player 256 Mb Aiao-801A, 
+---
+>    item_name: bulan cahaya mp3 player 256 mb aiao-801a, 
+58c58
+<    item_url: http://zeus-m.lightinthebox.com/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html, 
+---
+>    item_url: http://zeus-m.lightinthebox.com/ms/Moon-Light-Mp3-Player-256-Mb-Aiao-801A_p1.html, 
+70c70
+<    short_desc: Moon Light Mp3 Player 256 Mb Aiao-801A, 
+---
+>    short_desc: bulan cahaya mp3 player 256 mb aiao-801a, 
+
+zeus url: http://zeus-m.lightinthebox.com:8083/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=76E09474759F996169512DDB8CC923BB&currency=ILS&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get
+vela url: http://zeus-m.lightinthebox.com/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=76E09474759F996169512DDB8CC923BB&currency=ILS&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get
+
+
+ Total case: 4  
+ Succeful case: 1 
+ Failed case: 3<\pre>
+<\html>

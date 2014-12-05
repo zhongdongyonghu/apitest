@@ -1,0 +1,27 @@
+vela.item.get
+用例设计：
+
+针对的参数:
+Language   所有语言
+Currency   所有货币
+fields     所有单个字段及组合
+
+
+item_id  [1]  + 其他王洋提供的id
+         负向: -1,0,1.1
+is_hd    [true,false,1,0,-1,999,errorValue]
+
+
+
+正向默认值:   fields=空字符串，只有必填项有值
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?client=vela&format=json&method=vela.item.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2015-03-03+19%3A38%3A59&language=en&currency=USD&sid=j4ki7mv73cse8blop14tg2q121&fields=&item_id=1&is_hd=&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,item_id,is_hd&sign=E83383136C664527D4A9C99604B66A91
+
+Invalid signature:
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?client=vela&format=json&method=vela.item.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-03-03+06%3A38%3A59&language=en&currency=USD&sid=j4ki7mv73cse8blop14tg2q121&fields=item_id&item_id=1&is_hd=false&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,item_id,is_hd&sign=310DB04E6DC0FEC1F3ED652C4D2EC7A2
+
+fields=notExistSingleField:
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?client=vela&format=json&method=vela.item.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2015-03-03+19%3A38%3A59&language=en&currency=USD&sid=j4ki7mv73cse8blop14tg2q121&fields=notExistSingleField&item_id=1&is_hd=&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,item_id,is_hd&sign=FBC26C08A1B0370A88F72FB5BB940831
+
+fields=item_id,notExistCombineField 组合(一个正确和一个不存在字段):
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?client=vela&format=json&method=vela.item.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2015-03-03+19%3A38%3A59&language=en&currency=USD&sid=j4ki7mv73cse8blop14tg2q121&fields=item_id%2CnotExistCombineField&item_id=1&is_hd=&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,item_id,is_hd&sign=BD7B13239A16CC768333AA35ED0191CB
+

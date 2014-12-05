@@ -1,0 +1,23 @@
+﻿/geolocation/getCountry
+
+169.235.24.133 3127 HTTP [C]美国 加利福尼亚大学 06-04 17:39 0.767 whois 
+2 153.19.50.62 80 HTTP 波兰 ProxyCN 06-04 17:31 0.992 whois 
+3 203.69.66.102 80 HTTP 台湾省 中华电信 06-04 17:46 0.996 whois 
+4 59.39.145.178 3128 HTTP 广东省惠州市 电信 06-04 17:36 0.998 whois 
+5 115.68.28.11 8080 HTTP 欧洲 ProxyCN 06-04 17:33 0.998 whois 
+6 169.235.24.133 3128 HTTP 美国 06-04 17:50 1.000 whois 
+7 210.51.23.244 80 HTTP 上海市 漕河泾网通IDC机房 06-04 17:48 1.000 whois 
+8 220.194.58.240 3128 HTTP 北京市 联通
+
+先获取最新的sid
+curl -H'HOST:api.lightinthebox.com' "http://166.78.222.125/api/rest/app_server.php?client=vela&format=json&method=vela.sys.sessionid.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-09-23+03%3A55%3A58&language=en&currency=USD&sid=oounnda5t5v3vir5f952p4lbb2&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid&sign=FAAF069B420CE736849B91203D7AA809"
+
+1.
+ipAddress=220.194.58.240 中国
+sid=oounnda5t5v3vir5f952p4lbb2
+http://zeus-m.lightinthebox.com:8081/api/v1/geolocations/search?ipAddress=220.194.58.240&sid=oounnda5t5v3vir5f952p4lbb2&app_key=V06GF3A2&sign=5D7CA691D83C1DD3061C4925768DD387
+curl -H'HOST:api.lightinthebox.com' "http://66.78.222.125/api/v1/geolocations/search?ipAddress=220.194.58.240&sid=oounnda5t5v3vir5f952p4lbb2&app_key=V06GF3A2&sign=5D7CA691D83C1DD3061C4925768DD387"
+
+
+ipAddress=空
+http://api.lightinthebox.com:8081/api/v1/geolocations/search?ipAddress=&sid=oounnda5t5v3vir5f952p4lbb2&app_key=V06GF3A2&sign=A7D07CB8A2760A85EE2F549F6EEB6545

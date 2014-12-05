@@ -1,0 +1,43 @@
+vela.item.get
+用例设计：
+
+针对的参数:
+Language   所有语言
+Currency   所有货币
+fields     所有单个字段及组合
+
+
+item_id  [1]  + 其他王洋提供的id
+         负向: -1,0,1.1
+is_hd    [true,false,1,0,-1,999,errorValue]
+
+
+
+（一）正向: 
+【fields 】
+
+fields=空字符串，只有必填项有值,
+item_id=646282
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?client=vela&format=json&method=vela.item.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-03-03+07%3A38%3A30&language=en&currency=USD&sid=vkigff7m2d9hlp1c49ajo6g043&fields=&item_id=646282&is_hd=false&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,item_id,is_hd&sign=60DC4BBB6655119366E91018FB479A0A
+
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=A507BD26844F3AA12A279F84F343679C&currency=CLP&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get
+------------------------------
+{'currency': 'JPY', 'language': 'ms'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=E42AC3A8122D013CCB55B13AEA4C3BBE&currency=JPY&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get
+------------------------------
+{'currency': 'ILS', 'language': 'ms'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?is_hd=false&language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid%2Cfields%2Citem_id%2Cis_hd&fields=&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=46cu0h1ajekkge0koc10gkmb86&app_key=V06GF3A2&sign=76E09474759F996169512DDB8CC923BB&currency=ILS&client=vela&timestamp=2014-03-11+09%3A11%3A58&sign_method=md5&v=1.1&item_id=1&method=vela.item.get
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+

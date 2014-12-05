@@ -1,0 +1,2 @@
+﻿vela.promotion.todaysales.get
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?client=vela&format=json&method=vela.promotion.todaysales.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-05-22+06%3A56%3A33&language=en&currency=USD&sid=q1eodcb3krcqirt54eona4ijs1&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid&sign=5EEF2B6F043BDDF4C565FA413E864FC3

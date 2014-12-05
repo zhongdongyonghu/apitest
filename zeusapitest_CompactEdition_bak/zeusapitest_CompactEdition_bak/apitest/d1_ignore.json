@@ -1,0 +1,9 @@
+{
+ code: 1000000, 
+ error_msg: [], 
+ info: {
+  add_status: true, 
+  favorite_times: 5
+ }, 
+ result: success
+}

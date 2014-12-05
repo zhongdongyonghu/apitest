@@ -1,0 +1,94 @@
+{
+ "code": "1000000", 
+ "error_msg": [], 
+ "info": {
+  "item": {
+   "auto_post": false, 
+   "cate_show_imgs": {
+    "gallery": {
+     "rectangle": "http://litbimg.rightinthebox.com/images/426x560/201211/pdvu1353389873734.jpg", 
+     "square": "http://litbimg.rightinthebox.com/images/500x500/201211/pdvu1353389873734.jpg"
+    }, 
+    "grid": {
+     "rectangle": "http://litbimg.rightinthebox.com/images/290x467/201211/pdvu1353389873734.jpg", 
+     "square": "http://litbimg.rightinthebox.com/images/290x290/201211/pdvu1353389873734.jpg"
+    }, 
+    "list": {
+     "rectangle": "http://litbimg.rightinthebox.com/images/120x194/201211/pdvu1353389873734.jpg", 
+     "square": "http://litbimg.rightinthebox.com/images/120x120/201211/pdvu1353389873734.jpg"
+    }
+   }, 
+   "cid": "71", 
+   "currency": "USD", 
+   "desc_url": "http://zeus-m.lightinthebox.com/elegant-alloy-with-pearl-flower-women-s-earrings_desc2_p920048.html", 
+   "detail_desc": "", 
+   "discount": 0, 
+   "display_id": "00920048", 
+   "display_text": "Elegant Alloy With Pearl Flower Women's Earrings", 
+   "distribute_unavailable_skus": [], 
+   "favorite_times": 0, 
+   "is_discount": false, 
+   "is_freeshipping": false, 
+   "is_price_reduction": true, 
+   "is_promotions": false, 
+   "is_recommended": false, 
+   "is_sale": false, 
+   "is_specials": false, 
+   "is_virtual": false, 
+   "item_icon": null, 
+   "item_icons": [
+    1
+   ], 
+   "item_id": 920048, 
+   "item_img_shape": "rectangle", 
+   "item_imgs": [
+    {
+     "img_id": "201211/pdvu1353389873734.jpg", 
+     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201211/pdvu1353389873734.jpg", 
+     "position": 1
+    }, 
+    {
+     "img_id": "201307/ryrqda1374117364648.jpg", 
+     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201307/ryrqda1374117364648.jpg", 
+     "position": 2
+    }
+   ], 
+   "item_imgs_small": [
+    {
+     "img_id": "201211/pdvu1353389873734.jpg", 
+     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201211/pdvu1353389873734.jpg", 
+     "position": 1
+    }, 
+    {
+     "img_id": "201307/ryrqda1374117364648.jpg", 
+     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201307/ryrqda1374117364648.jpg", 
+     "position": 2
+    }
+   ], 
+   "item_name": "Elegant Alloy With Pearl Flower Women's Earrings", 
+   "item_status": "onsale", 
+   "item_url": "http://zeus-m.lightinthebox.com/elegant-alloy-with-pearl-flower-women-s-earrings_p920048.html", 
+   "main_img_name": "201211/pdvu1353389873734.jpg", 
+   "main_img_url": "http://litbimg.rightinthebox.com/images/380x500/201211/pdvu1353389873734.jpg", 
+   "original_price": 18, 
+   "qty_min_unit": "1", 
+   "qty_order_max": 100, 
+   "qty_order_min": "1", 
+   "review_count": null, 
+   "review_rating": 0, 
+   "sale_price": 14.99, 
+   "sales_promotion_end_date": null, 
+   "sales_promotion_title": "", 
+   "sales_type": "distribute", 
+   "save_price": 3.01, 
+   "short_desc": "Elegant Alloy With Pearl Flower Women's Earrings", 
+   "sku_combinations": [], 
+   "skus": [], 
+   "stock_available_skus": [], 
+   "stuff_status": "new", 
+   "template_id": "204", 
+   "thumbnail_img_url": "http://litbimg.rightinthebox.com/images/290x467/201211/pdvu1353389873734.jpg"
+  }
+ }, 
+ "result": "success"
+}

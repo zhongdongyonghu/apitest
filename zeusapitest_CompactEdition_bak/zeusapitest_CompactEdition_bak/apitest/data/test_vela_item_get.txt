@@ -1,0 +1,8 @@
+vela.item.desc.get
+用例设计：
+
+正向：
+
+
+item_id=646282
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?client=vela&format=json&method=vela.item.desc.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-03-04+08%3A38%3A35&language=en&currency=USD&sid=vkigff7m2d9hlp1c49ajo6g043&item_id=646282&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,item_id&sign=55C4DCB8C583D747ABA81FD168EA5AE8

@@ -1,0 +1,21 @@
+﻿测试步骤：
+1.进入http://zeus-m.lightinthebox.com:8081/api/v1/doc/index.html#!/social/getOAuth
+2.不填写任何参数提交请求
+  http://zeus-m.lightinthebox.com:8081/api/v1/socials/FACEBOOK/get?sid=oounnda5t5v3vir5f952p4lbb2&app_key=V06GF3A2&sign=D41D8CD98F00B204E9800998ECF8427E
+3.获得以下请求串
+ 
+ 
+ 
+ 
+ {
+  "info": {
+    "email": "wei_0623@sina.cn",
+    "customerId": 213185,
+    "providerId": "Facebook",
+    "providerUserId": "100008082377453",
+    "sessionkey": "16e856ffbf8788c8d6b8986ae4cf092a"
+  },
+  "result": "success",
+  "code": "1000000",
+  "error_msg": []
+}

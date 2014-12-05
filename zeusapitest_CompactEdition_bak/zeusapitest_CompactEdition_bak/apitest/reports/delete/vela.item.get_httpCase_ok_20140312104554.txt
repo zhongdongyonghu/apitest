@@ -1,0 +1,353 @@
+<html>
+<pre>
+ 
+====================================================================
+ zeusURL  http://192.168.66.250:8083/api/rest/app_server.php?client=vela&format=json&method=vela.item.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-03-03+07%3A38%3A30&language=en&currency=USD&sid=vkigff7m2d9hlp1c49ajo6g043&fields=&item_id=646282&is_hd=false&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,item_id,is_hd&sign=60DC4BBB6655119366E91018FB479A0AvelaURL  http://192.168.66.250/api/rest/app_server.php?client=vela&format=json&method=vela.item.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-03-03+07%3A38%3A30&language=en&currency=USD&sid=vkigff7m2d9hlp1c49ajo6g043&fields=&item_id=646282&is_hd=false&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,item_id,is_hd&sign=60DC4BBB6655119366E91018FB479A0A_True
+
+====================================================================
+ Zeus: {u'info': {u'item': {u'original_price': u'144.99', u'is_specials': False, u'qty_order_min': u'1', u'sku_combinations': [], u'cate_show_imgs': {u'list': {u'square': u'http://litbimg.rightinthebox.com/images/120x120/201401/njuu1388999573608.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/120x194/201401/njuu1388999573608.jpg'}, u'grid': {u'square': u'http://litbimg.rightinthebox.com/images/290x290/201401/njuu1388999573608.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/290x467/201401/njuu1388999573608.jpg'}, u'gallery': {u'square': u'http://litbimg.rightinthebox.com/images/500x500/201401/njuu1388999573608.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/426x560/201401/njuu1388999573608.jpg'}}, u'qty_order_max': 999, u'favorite_times': 1002, u'sales_promotion_end_date': None, u'currency': u'USD', u'review_rating': 5, u'item_icon': None, u'item_imgs': [{u'position': 1, u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/njuu1388999573608.jpg', u'img_id': u'201401/njuu1388999573608.jpg'}, {u'position': 2, u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/bzus1388999575155.jpg', u'img_id': u'201401/bzus1388999575155.jpg'}, {u'position': 3, u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/ghpg1388999576889.jpg', u'img_id': u'201401/ghpg1388999576889.jpg'}, {u'position': 4, u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/mjzx1388999578608.jpg', u'img_id': u'201401/mjzx1388999578608.jpg'}, {u'position': 5, u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/jcgr1388999580014.jpg', u'img_id': u'201401/jcgr1388999580014.jpg'}], u'item_imgs_small': [{u'position': 1, u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/njuu1388999573608.jpg', u'img_id': u'201401/njuu1388999573608.jpg'}, {u'position': 2, u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/bzus1388999575155.jpg', u'img_id': u'201401/bzus1388999575155.jpg'}, {u'position': 3, u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/ghpg1388999576889.jpg', u'img_id': u'201401/ghpg1388999576889.jpg'}, {u'position': 4, u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/mjzx1388999578608.jpg', u'img_id': u'201401/mjzx1388999578608.jpg'}, {u'position': 5, u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/jcgr1388999580014.jpg', u'img_id': u'201401/jcgr1388999580014.jpg'}], u'is_freeshipping': False, u'main_img_url': u'http://litbimg.rightinthebox.com/images/380x500/201401/njuu1388999573608.jpg', u'qty_min_unit': u'1', u'stock_available_skus': [[u'25_177', u'50'], [u'25_182', u'100']], u'item_url': u'http://zeus-m.lightinthebox.com/news4-andorid-2-3-1-0ghz-cpu-smartphone-with-5-0-inch-capacitive-touchscreen-dual-sim-wifi-dual-camera_p646282.html', u'is_promotions': False, u'item_name': u'NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)', u'item_img_shape': u'rectangle', u'short_desc': u'NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)', u'is_virtual': False, u'auto_post': False, u'save_price': 50.0, u'sale_price': 94.99, u'display_id': u'00646282', u'is_discount': False, u'distribute_unavailable_skus': [], u'item_status': u'onsale', u'discount': 0, u'is_price_reduction': True, u'thumbnail_img_url': u'http://litbimg.rightinthebox.com/images/290x467/201401/njuu1388999573608.jpg', u'sales_type': u'stock', u'stuff_status': u'new', u'item_id': 646282, u'review_count': 7, u'is_sale': False, u'skus': [{u'custom_text': None, u'sku_id': 25, u'name': u'Color', u'custom_name': None, u'title': u'Select Color', u'mode_key': u'', u'custom_img': [], u'parent_id': u'0', u'allow_blank': 0, u'values': [{u'sku_id': u'25', u'name': u'Black', u'title': u'Black', u'price': u'0.00', u'value_id': 177, u'quantity': u''}, {u'sku_id': u'25', u'name': u'White', u'title': u'White', u'price': u'0.00', u'value_id': 182, u'quantity': u''}], u'mode': u'select', u'child': [], u'custom_price': 0}], u'display_text': u'NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)', u'detail_desc': u'', u'cid': u'71', u'item_icons': [3], u'main_img_name': u'201401/njuu1388999573608.jpg', u'desc_url': u'http://zeus-m.lightinthebox.com/news4-andorid-2-3-1-0ghz-cpu-smartphone-with-5-0-inch-capacitive-touchscreen-dual-sim-wifi-dual-camera_desc2_p646282.html', u'sales_promotion_title': u'', u'is_recommended': False, u'template_id': u'204'}}, u'code': u'1000000', u'result': u'success', u'error_msg': []}
+Vela: {u'info': {u'item': {u'original_price': 144.99, u'is_specials': False, u'qty_order_min': u'1', u'sku_combinations': [], u'cate_show_imgs': {u'grid': {u'square': u'http://litbimg.rightinthebox.com/images/290x290/201401/njuu1388999573608.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/290x467/201401/njuu1388999573608.jpg'}, u'list': {u'square': u'http://litbimg.rightinthebox.com/images/120x120/201401/njuu1388999573608.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/120x194/201401/njuu1388999573608.jpg'}, u'gallery': {u'square': u'http://litbimg.rightinthebox.com/images/500x500/201401/njuu1388999573608.jpg', u'rectangle': u'http://litbimg.rightinthebox.com/images/426x560/201401/njuu1388999573608.jpg'}}, u'qty_order_max': 999, u'favorite_times': 1002, u'sales_promotion_end_date': None, u'currency': u'USD', u'item_icon': None, u'item_imgs': [{u'img_id': u'201401/njuu1388999573608.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/njuu1388999573608.jpg', u'position': 1}, {u'img_id': u'201401/bzus1388999575155.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/bzus1388999575155.jpg', u'position': 2}, {u'img_id': u'201401/ghpg1388999576889.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/ghpg1388999576889.jpg', u'position': 3}, {u'img_id': u'201401/mjzx1388999578608.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/mjzx1388999578608.jpg', u'position': 4}, {u'img_id': u'201401/jcgr1388999580014.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/640x843/201401/jcgr1388999580014.jpg', u'position': 5}], u'item_imgs_small': [{u'img_id': u'201401/njuu1388999573608.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/njuu1388999573608.jpg', u'position': 1}, {u'img_id': u'201401/bzus1388999575155.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/bzus1388999575155.jpg', u'position': 2}, {u'img_id': u'201401/ghpg1388999576889.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/ghpg1388999576889.jpg', u'position': 3}, {u'img_id': u'201401/mjzx1388999578608.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/mjzx1388999578608.jpg', u'position': 4}, {u'img_id': u'201401/jcgr1388999580014.jpg', u'img_url': u'http://litbimg.rightinthebox.com/images/358x470/201401/jcgr1388999580014.jpg', u'position': 5}], u'is_freeshipping': False, u'main_img_url': u'http://litbimg.rightinthebox.com/images/380x500/201401/njuu1388999573608.jpg', u'qty_min_unit': u'1', u'stock_available_skus': [[u'25_177', u'50'], [u'25_182', u'100']], u'item_url': u'http://zeus-m.lightinthebox.com/news4-andorid-2-3-1-0ghz-cpu-smartphone-with-5-0-inch-capacitive-touchscreen-dual-sim-wifi-dual-camera_p646282.html', u'is_promotions': False, u'item_name': u'NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)', u'item_img_shape': u'rectangle', u'short_desc': u'NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)', u'is_virtual': False, u'auto_post': False, u'save_price': 50, u'sale_price': 94.99, u'display_id': u'00646282', u'is_discount': False, u'distribute_unavailable_skus': [], u'item_status': u'onsale', u'discount': 0, u'is_price_reduction': True, u'thumbnail_img_url': u'http://litbimg.rightinthebox.com/images/290x467/201401/njuu1388999573608.jpg', u'sales_type': u'stock', u'review_rating': 5, u'stuff_status': u'new', u'item_id': 646282, u'review_count': 7, u'is_sale': False, u'skus': [{u'custom_text': None, u'sku_id': u'25', u'name': u'Color', u'custom_name': None, u'title': u'Select Color', u'mode_key': u'', u'custom_img': [], u'parent_id': u'0', u'allow_blank': 0, u'values': [{u'sku_id': u'25', u'name': u'Black', u'title': u'Black', u'price': u'0.00', u'value_id': u'177', u'quantity': u''}, {u'sku_id': u'25', u'name': u'White', u'title': u'White', u'price': u'0.00', u'value_id': u'182', u'quantity': u''}], u'mode': u'select', u'child': [], u'custom_price': 0}], u'display_text': u'NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)', u'detail_desc': u'', u'cid': u'71', u'item_icons': [3], u'main_img_name': u'201401/njuu1388999573608.jpg', u'desc_url': u'http://zeus-m.lightinthebox.com/news4-andorid-2-3-1-0ghz-cpu-smartphone-with-5-0-inch-capacitive-touchscreen-dual-sim-wifi-dual-camera_desc2_p646282.html', u'sales_promotion_title': u'', u'is_recommended': False, u'template_id': u'204'}}, u'code': u'1000000', u'result': u'success', u'error_msg': []}
+
+--------------------------------------------------------------------
+ Zeus output
+       1	{
+     2	 "code": "1000000", 
+     3	 "error_msg": [], 
+     4	 "info": {
+     5	  "item": {
+     6	   "auto_post": false, 
+     7	   "cate_show_imgs": {
+     8	    "gallery": {
+     9	     "rectangle": "http://litbimg.rightinthebox.com/images/426x560/201401/njuu1388999573608.jpg", 
+    10	     "square": "http://litbimg.rightinthebox.com/images/500x500/201401/njuu1388999573608.jpg"
+    11	    }, 
+    12	    "grid": {
+    13	     "rectangle": "http://litbimg.rightinthebox.com/images/290x467/201401/njuu1388999573608.jpg", 
+    14	     "square": "http://litbimg.rightinthebox.com/images/290x290/201401/njuu1388999573608.jpg"
+    15	    }, 
+    16	    "list": {
+    17	     "rectangle": "http://litbimg.rightinthebox.com/images/120x194/201401/njuu1388999573608.jpg", 
+    18	     "square": "http://litbimg.rightinthebox.com/images/120x120/201401/njuu1388999573608.jpg"
+    19	    }
+    20	   }, 
+    21	   "cid": "71", 
+    22	   "currency": "USD", 
+    23	   "desc_url": "http://zeus-m.lightinthebox.com/news4-andorid-2-3-1-0ghz-cpu-smartphone-with-5-0-inch-capacitive-touchscreen-dual-sim-wifi-dual-camera_desc2_p646282.html", 
+    24	   "detail_desc": "", 
+    25	   "discount": 0, 
+    26	   "display_id": "00646282", 
+    27	   "display_text": "NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)", 
+    28	   "distribute_unavailable_skus": [], 
+    29	   "favorite_times": 1002, 
+    30	   "is_discount": false, 
+    31	   "is_freeshipping": false, 
+    32	   "is_price_reduction": true, 
+    33	   "is_promotions": false, 
+    34	   "is_recommended": false, 
+    35	   "is_sale": false, 
+    36	   "is_specials": false, 
+    37	   "is_virtual": false, 
+    38	   "item_icon": null, 
+    39	   "item_icons": [
+    40	    3
+    41	   ], 
+    42	   "item_id": 646282, 
+    43	   "item_img_shape": "rectangle", 
+    44	   "item_imgs": [
+    45	    {
+    46	     "img_id": "201401/njuu1388999573608.jpg", 
+    47	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/njuu1388999573608.jpg", 
+    48	     "position": 1
+    49	    }, 
+    50	    {
+    51	     "img_id": "201401/bzus1388999575155.jpg", 
+    52	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/bzus1388999575155.jpg", 
+    53	     "position": 2
+    54	    }, 
+    55	    {
+    56	     "img_id": "201401/ghpg1388999576889.jpg", 
+    57	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/ghpg1388999576889.jpg", 
+    58	     "position": 3
+    59	    }, 
+    60	    {
+    61	     "img_id": "201401/mjzx1388999578608.jpg", 
+    62	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/mjzx1388999578608.jpg", 
+    63	     "position": 4
+    64	    }, 
+    65	    {
+    66	     "img_id": "201401/jcgr1388999580014.jpg", 
+    67	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/jcgr1388999580014.jpg", 
+    68	     "position": 5
+    69	    }
+    70	   ], 
+    71	   "item_imgs_small": [
+    72	    {
+    73	     "img_id": "201401/njuu1388999573608.jpg", 
+    74	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/njuu1388999573608.jpg", 
+    75	     "position": 1
+    76	    }, 
+    77	    {
+    78	     "img_id": "201401/bzus1388999575155.jpg", 
+    79	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/bzus1388999575155.jpg", 
+    80	     "position": 2
+    81	    }, 
+    82	    {
+    83	     "img_id": "201401/ghpg1388999576889.jpg", 
+    84	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/ghpg1388999576889.jpg", 
+    85	     "position": 3
+    86	    }, 
+    87	    {
+    88	     "img_id": "201401/mjzx1388999578608.jpg", 
+    89	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/mjzx1388999578608.jpg", 
+    90	     "position": 4
+    91	    }, 
+    92	    {
+    93	     "img_id": "201401/jcgr1388999580014.jpg", 
+    94	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/jcgr1388999580014.jpg", 
+    95	     "position": 5
+    96	    }
+    97	   ], 
+    98	   "item_name": "NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)", 
+    99	   "item_status": "onsale", 
+   100	   "item_url": "http://zeus-m.lightinthebox.com/news4-andorid-2-3-1-0ghz-cpu-smartphone-with-5-0-inch-capacitive-touchscreen-dual-sim-wifi-dual-camera_p646282.html", 
+   101	   "main_img_name": "201401/njuu1388999573608.jpg", 
+   102	   "main_img_url": "http://litbimg.rightinthebox.com/images/380x500/201401/njuu1388999573608.jpg", 
+   103	   "original_price": "144.99", 
+   104	   "qty_min_unit": "1", 
+   105	   "qty_order_max": 999, 
+   106	   "qty_order_min": "1", 
+   107	   "review_count": 7, 
+   108	   "review_rating": 5, 
+   109	   "sale_price": 94.99, 
+   110	   "sales_promotion_end_date": null, 
+   111	   "sales_promotion_title": "", 
+   112	   "sales_type": "stock", 
+   113	   "save_price": 50.0, 
+   114	   "short_desc": "NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)", 
+   115	   "sku_combinations": [], 
+   116	   "skus": [
+   117	    {
+   118	     "allow_blank": 0, 
+   119	     "child": [], 
+   120	     "custom_img": [], 
+   121	     "custom_name": null, 
+   122	     "custom_price": 0, 
+   123	     "custom_text": null, 
+   124	     "mode": "select", 
+   125	     "mode_key": "", 
+   126	     "name": "Color", 
+   127	     "parent_id": "0", 
+   128	     "sku_id": 25, 
+   129	     "title": "Select Color", 
+   130	     "values": [
+   131	      {
+   132	       "name": "Black", 
+   133	       "price": "0.00", 
+   134	       "quantity": "", 
+   135	       "sku_id": "25", 
+   136	       "title": "Black", 
+   137	       "value_id": 177
+   138	      }, 
+   139	      {
+   140	       "name": "White", 
+   141	       "price": "0.00", 
+   142	       "quantity": "", 
+   143	       "sku_id": "25", 
+   144	       "title": "White", 
+   145	       "value_id": 182
+   146	      }
+   147	     ]
+   148	    }
+   149	   ], 
+   150	   "stock_available_skus": [
+   151	    [
+   152	     "25_177", 
+   153	     "50"
+   154	    ], 
+   155	    [
+   156	     "25_182", 
+   157	     "100"
+   158	    ]
+   159	   ], 
+   160	   "stuff_status": "new", 
+   161	   "template_id": "204", 
+   162	   "thumbnail_img_url": "http://litbimg.rightinthebox.com/images/290x467/201401/njuu1388999573608.jpg"
+   163	  }
+   164	 }, 
+   165	 "result": "success"
+   166	}
+--------------------------------------------------------------------
+ Vela output 
+      1	{
+     2	 "code": "1000000", 
+     3	 "error_msg": [], 
+     4	 "info": {
+     5	  "item": {
+     6	   "auto_post": false, 
+     7	   "cate_show_imgs": {
+     8	    "gallery": {
+     9	     "rectangle": "http://litbimg.rightinthebox.com/images/426x560/201401/njuu1388999573608.jpg", 
+    10	     "square": "http://litbimg.rightinthebox.com/images/500x500/201401/njuu1388999573608.jpg"
+    11	    }, 
+    12	    "grid": {
+    13	     "rectangle": "http://litbimg.rightinthebox.com/images/290x467/201401/njuu1388999573608.jpg", 
+    14	     "square": "http://litbimg.rightinthebox.com/images/290x290/201401/njuu1388999573608.jpg"
+    15	    }, 
+    16	    "list": {
+    17	     "rectangle": "http://litbimg.rightinthebox.com/images/120x194/201401/njuu1388999573608.jpg", 
+    18	     "square": "http://litbimg.rightinthebox.com/images/120x120/201401/njuu1388999573608.jpg"
+    19	    }
+    20	   }, 
+    21	   "cid": "71", 
+    22	   "currency": "USD", 
+    23	   "desc_url": "http://zeus-m.lightinthebox.com/news4-andorid-2-3-1-0ghz-cpu-smartphone-with-5-0-inch-capacitive-touchscreen-dual-sim-wifi-dual-camera_desc2_p646282.html", 
+    24	   "detail_desc": "", 
+    25	   "discount": 0, 
+    26	   "display_id": "00646282", 
+    27	   "display_text": "NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)", 
+    28	   "distribute_unavailable_skus": [], 
+    29	   "favorite_times": 1002, 
+    30	   "is_discount": false, 
+    31	   "is_freeshipping": false, 
+    32	   "is_price_reduction": true, 
+    33	   "is_promotions": false, 
+    34	   "is_recommended": false, 
+    35	   "is_sale": false, 
+    36	   "is_specials": false, 
+    37	   "is_virtual": false, 
+    38	   "item_icon": null, 
+    39	   "item_icons": [
+    40	    3
+    41	   ], 
+    42	   "item_id": 646282, 
+    43	   "item_img_shape": "rectangle", 
+    44	   "item_imgs": [
+    45	    {
+    46	     "img_id": "201401/njuu1388999573608.jpg", 
+    47	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/njuu1388999573608.jpg", 
+    48	     "position": 1
+    49	    }, 
+    50	    {
+    51	     "img_id": "201401/bzus1388999575155.jpg", 
+    52	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/bzus1388999575155.jpg", 
+    53	     "position": 2
+    54	    }, 
+    55	    {
+    56	     "img_id": "201401/ghpg1388999576889.jpg", 
+    57	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/ghpg1388999576889.jpg", 
+    58	     "position": 3
+    59	    }, 
+    60	    {
+    61	     "img_id": "201401/mjzx1388999578608.jpg", 
+    62	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/mjzx1388999578608.jpg", 
+    63	     "position": 4
+    64	    }, 
+    65	    {
+    66	     "img_id": "201401/jcgr1388999580014.jpg", 
+    67	     "img_url": "http://litbimg.rightinthebox.com/images/640x843/201401/jcgr1388999580014.jpg", 
+    68	     "position": 5
+    69	    }
+    70	   ], 
+    71	   "item_imgs_small": [
+    72	    {
+    73	     "img_id": "201401/njuu1388999573608.jpg", 
+    74	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/njuu1388999573608.jpg", 
+    75	     "position": 1
+    76	    }, 
+    77	    {
+    78	     "img_id": "201401/bzus1388999575155.jpg", 
+    79	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/bzus1388999575155.jpg", 
+    80	     "position": 2
+    81	    }, 
+    82	    {
+    83	     "img_id": "201401/ghpg1388999576889.jpg", 
+    84	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/ghpg1388999576889.jpg", 
+    85	     "position": 3
+    86	    }, 
+    87	    {
+    88	     "img_id": "201401/mjzx1388999578608.jpg", 
+    89	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/mjzx1388999578608.jpg", 
+    90	     "position": 4
+    91	    }, 
+    92	    {
+    93	     "img_id": "201401/jcgr1388999580014.jpg", 
+    94	     "img_url": "http://litbimg.rightinthebox.com/images/358x470/201401/jcgr1388999580014.jpg", 
+    95	     "position": 5
+    96	    }
+    97	   ], 
+    98	   "item_name": "NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)", 
+    99	   "item_status": "onsale", 
+   100	   "item_url": "http://zeus-m.lightinthebox.com/news4-andorid-2-3-1-0ghz-cpu-smartphone-with-5-0-inch-capacitive-touchscreen-dual-sim-wifi-dual-camera_p646282.html", 
+   101	   "main_img_name": "201401/njuu1388999573608.jpg", 
+   102	   "main_img_url": "http://litbimg.rightinthebox.com/images/380x500/201401/njuu1388999573608.jpg", 
+   103	   "original_price": 144.99, 
+   104	   "qty_min_unit": "1", 
+   105	   "qty_order_max": 999, 
+   106	   "qty_order_min": "1", 
+   107	   "review_count": 7, 
+   108	   "review_rating": 5, 
+   109	   "sale_price": 94.99, 
+   110	   "sales_promotion_end_date": null, 
+   111	   "sales_promotion_title": "", 
+   112	   "sales_type": "stock", 
+   113	   "save_price": 50, 
+   114	   "short_desc": "NEWS4 Andorid 2.3 1.0GHz  CPU Smartphone with 5.0 Inch Capacitive Touchscreen (Dual SIM,WiFi,Dual Camera)", 
+   115	   "sku_combinations": [], 
+   116	   "skus": [
+   117	    {
+   118	     "allow_blank": 0, 
+   119	     "child": [], 
+   120	     "custom_img": [], 
+   121	     "custom_name": null, 
+   122	     "custom_price": 0, 
+   123	     "custom_text": null, 
+   124	     "mode": "select", 
+   125	     "mode_key": "", 
+   126	     "name": "Color", 
+   127	     "parent_id": "0", 
+   128	     "sku_id": "25", 
+   129	     "title": "Select Color", 
+   130	     "values": [
+   131	      {
+   132	       "name": "Black", 
+   133	       "price": "0.00", 
+   134	       "quantity": "", 
+   135	       "sku_id": "25", 
+   136	       "title": "Black", 
+   137	       "value_id": "177"
+   138	      }, 
+   139	      {
+   140	       "name": "White", 
+   141	       "price": "0.00", 
+   142	       "quantity": "", 
+   143	       "sku_id": "25", 
+   144	       "title": "White", 
+   145	       "value_id": "182"
+   146	      }
+   147	     ]
+   148	    }
+   149	   ], 
+   150	   "stock_available_skus": [
+   151	    [
+   152	     "25_177", 
+   153	     "50"
+   154	    ], 
+   155	    [
+   156	     "25_182", 
+   157	     "100"
+   158	    ]
+   159	   ], 
+   160	   "stuff_status": "new", 
+   161	   "template_id": "204", 
+   162	   "thumbnail_img_url": "http://litbimg.rightinthebox.com/images/290x467/201401/njuu1388999573608.jpg"
+   163	  }
+   164	 }, 
+   165	 "result": "success"
+   166	}zeus url: http://zeus-m.lightinthebox.com:8083/api/rest/app_server.php?client=vela&format=json&method=vela.item.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-03-03+07%3A38%3A30&language=en&currency=USD&sid=vkigff7m2d9hlp1c49ajo6g043&fields=&item_id=646282&is_hd=false&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,item_id,is_hd&sign=60DC4BBB6655119366E91018FB479A0A
+vela url: http://zeus-m.lightinthebox.com/api/rest/app_server.php?client=vela&format=json&method=vela.item.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-03-03+07%3A38%3A30&language=en&currency=USD&sid=vkigff7m2d9hlp1c49ajo6g043&fields=&item_id=646282&is_hd=false&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,item_id,is_hd&sign=60DC4BBB6655119366E91018FB479A0A
+
+
+ Total case: 4  
+ Succeful case: 1 
+ Failed case: 3<\pre>
+<\html>

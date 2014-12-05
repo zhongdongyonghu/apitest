@@ -1,0 +1,253 @@
+{
+    "type":"object",
+    "required":false,
+    "properties":{
+        "code": {
+            "type":"number"
+        },
+        "error_msg": {
+            "type":"array"
+        },
+        "info": {
+            "type":"object",
+            "properties":{
+                "item": {
+                    "type":"object",
+                    "properties":{
+                        "auto_post": {
+                            "type":"boolean"
+                        },
+                        "cate_show_imgs": {
+                            "type":"object",
+                            "properties":{
+                                "gallery": {
+                                    "type":"object",
+                                    "properties":{
+                                        "rectangle": {
+                                            "type":"string"
+                                        },
+                                        "square": {
+                                            "type":"string"
+                                        }
+                                    }
+                                },
+                                "grid": {
+                                    "type":"object",
+                                    "properties":{
+                                        "rectangle": {
+                                            "type":"string"
+                                        },
+                                        "square": {
+                                            "type":"string"
+                                        }
+                                    }
+                                },
+                                "list": {
+                                    "type":"object",
+                                    "properties":{
+                                        "rectangle": {
+                                            "type":"string"
+                                        },
+                                        "square": {
+                                            "type":"string"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "cid": {
+                            "type":"string"
+                        },
+                        "currency": {
+                            "type":"string"
+                        },
+                        "desc_url": {
+                            "type":"string"
+                        },
+                        "detail_desc": {
+                            "type":"string"
+                        },
+                        "discount": {
+                            "type":"string"
+                        },
+                        "display_id": {
+                            "type":"string"
+                        },
+                        "display_text": {
+                            "type":"string"
+                        },
+                        "distribute_unavailable_skus": {
+                            "type":"array",
+                            "items":
+                            {
+                                "type":"array"
+                            }
+
+
+                        },
+                        "favorite_times": {
+                            "type":"number"
+                        },
+                        "is_discount": {
+                            "type":"boolean"
+                        },
+                        "is_freeshipping": {
+                            "type":"boolean"
+                        },
+                        "is_price_reduction": {
+                            "type":"boolean"
+                        },
+                        "is_promotions": {
+                            "type":"boolean"
+                        },
+                        "is_recommended": {
+                            "type":"boolean"
+                        },
+                        "is_sale": {
+                            "type":"boolean"
+                        },
+                        "is_specials": {
+                            "type":"boolean"
+                        },
+                        "is_virtual": {
+                            "type":"boolean"
+                        },
+                        "item_icon": {
+                            "type":"null"
+                        },
+                        "item_icons": {
+                            "type":"array",
+                            "items":
+                            {
+                                "type":"number"
+                            }
+
+
+                        },
+                        "item_id": {
+                            "type":"number"
+                        },
+                        "item_img_shape": {
+                            "type":"string"
+                        },
+                        "item_imgs_small": {
+                            "type":"array",
+                            "items":
+                            {
+                                "type":"object",
+                                "properties":{
+                                    "img_id": {
+                                        "type":"string"
+                                    },
+                                    "img_url": {
+                                        "type":"string"
+                                    },
+                                    "position": {
+                                        "type":"number"
+                                    }
+                                }
+                            }
+
+
+                        },
+                        "item_imgs": {
+                            "type":"array",
+                            "items":
+                            {
+                                "type":"object",
+                                "properties":{
+                                    "img_id": {
+                                        "type":"string"
+                                    },
+                                    "img_url": {
+                                        "type":"string"
+                                    },
+                                    "position": {
+                                        "type":"number"
+                                    }
+                                }
+                            }
+
+
+                        },
+                        "item_name": {
+                            "type":"string"
+                        },
+                        "item_status": {
+                            "type":"string"
+                        },
+                        "item_url": {
+                            "type":"string"
+                        },
+                        "main_img_name": {
+                            "type":"string"
+                        },
+                        "main_img_url": {
+                            "type":"string"
+                        },
+                        "originalPrice": {
+                            "type":"number"
+                        },
+                        "original_price": {
+                            "type":"string"
+                        },
+                        "qty_min_unit": {
+                            "type":"string"
+                        },
+                        "qty_order_max": {
+                            "type":"number"
+                        },
+                        "qty_order_min": {
+                            "type":"string"
+                        },
+                        "review_count": {
+                            "type":"number"
+                        },
+                        "review_rating": {
+                            "type":"number"
+                        },
+                        "sale_price": {
+                            "type":"string"
+                        },
+                        "sales_promotion_end_date": {
+                            "type":"null"
+                        },
+                        "sales_promotion_title": {
+                            "type":"string"
+                        },
+                        "sales_type": {
+                            "type":"string"
+                        },
+                        "save_price": {
+                            "type":"string"
+                        },
+                        "short_desc": {
+                            "type":"string"
+                        },
+                        "sku_combinations": {
+                            "type":"array"
+                        },
+                        "skus": {
+                            "type":"array"
+                        },
+                        "stock_available_skus": {
+                            "type":"array"
+                        },
+                        "stuff_status": {
+                            "type":"string"
+                        },
+                        "template_id": {
+                            "type":"string"
+                        },
+                        "thumbnail_img_url": {
+                            "type":"string"
+                        }
+                    }
+                }
+            }
+        },
+        "result": {
+            "type":"string"
+        }
+    }
+}

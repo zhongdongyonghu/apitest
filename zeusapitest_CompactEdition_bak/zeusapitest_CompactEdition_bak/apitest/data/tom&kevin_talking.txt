@@ -1,0 +1,114 @@
+﻿lijie(李杰-Li Jie) 10:26:03
+hello
+toml(Tom Lianza) 10:28:20
+hi guys!
+toml(Tom Lianza) 10:28:59
+ready to scrum over chat?  I don't think Phil will be joining… he's trying to set up RTX now
+toml(Tom Lianza) 10:29:06
+and he's on Linux… so, that's hard
+toml(Tom Lianza) 10:30:02
+For me: I spent most of my time today working on a new API client for testing the new Zeus API calls, hoping to have it done tonight.
+Tomorrow: Back to work on an overall frontend plan, which I'll run by Peter
+I am not blocked
+lijie(李杰-Li Jie) 10:31:54
+now ,my first question is how to insert with jpa. Done it , i will test all five api of adress
+liningbo(李宁波) 10:32:08
+for me:i have finish qa_like without memcache,now i am doing on qa_get,when i finish the three APIs of qa,i will add memcache access to them.
+lijie(李杰-Li Jie) 10:32:35
+Is insert  like update ?
+toml(Tom Lianza) 10:33:07
+Yeah, liningbo - that sounds good.  I also skipped the memcache steps at first.  actually, I still didn't add it to the review api at all.
+toml(Tom Lianza) 10:33:29
+but, I'll add it eventually. definitely great to get the apis working first, even without it
+toml(Tom Lianza) 10:34:04
+lijie- yes, insert is probably similar to update.  although, in jpa it's slightly different.  I'm not sure about hibernate
+toml(Tom Lianza) 10:34:13
+kevin or liningbo might know
+lijie(李杰-Li Jie) 10:35:06
+Ok , Kevin , can you give me a sample
+kevinc(Kevin Chen) 10:35:04
+For Zeus API:
+Cover from Thurday from Thurday, started working on "vela.ad.detail.get" API and wrote the auto test today and passed it in checked it in.
+For Testing:
+Started working up the priority bugs from Thurday, requested permssion on App repos, and built mini IOS and both litb app but couldn't reproduce the IOS image bug. Waiting for feedback from "Wang Yang" in redmine. Built the Android APP today, expect to find the cause of bug 70851 today or tomorrow.
+王洋 加入了本次会话。
+liningbo(李宁波) 10:36:18
+i ask the developer of vela, he say before zeus.api is on line,we should add memcache,because of the load of redis is high.
+toml(Tom Lianza) 10:38:09
+ok, good to know
+toml(Tom Lianza) 10:38:13
+who are you talking to?
+liningbo(李宁波) 10:38:31
+wanghuaqiao
+toml(Tom Lianza) 10:38:37
+cool
+kevinc(Kevin Chen) 10:39:35
+For writing to database, in WishlistDaoImpl and newProductWishlist for insert, updateProductWishlist for update
+The annotation 	@Transactional 	@JpaWritable are necessary.
+liningbo(李宁波) 10:40:14
+tomorrow lijie and me will attend the training of new employees,so we will absent tomorrow.
+toml(Tom Lianza) 10:42:21
+https://docs.google.com/a/ador.com/spreadsheet/ccc?key=0AhXpchKsscTMdGprM3ZjVVNTNW5MYV9zek05NHVEeEE&usp=drive_web#gid=0
+toml(Tom Lianza) 10:42:29
+Phil updated this doc with 2 new APIs done - the flash sales
+toml(Tom Lianza) 10:42:38
+next, he's going to work on the reocmmendation apis
+toml(Tom Lianza) 10:42:45
+(so, that's Phil's status)
+kevinc(Kevin Chen) 11:04:43
+Ok, I'm not blocked on anything, but need to figure out the android review issue. Is anyone blocked on anything? Li Jie, Liningbo? 
+liningbo(李宁波) 11:05:51
+no,i am going normally.
+lijie(李杰-Li Jie) 11:06:31
+i need a jpa insert example
+kevinc(Kevin Chen) 11:08:15
+@LiJie, check out "For writing to database" in the a few message above,
+@Liningbo, Great! are you familar with git conflicts?
+liningbo(李宁波) 11:09:37
+not very familar,i study git in lightinthebox,i use svn in last company.
+liningbo(李宁波) 11:10:14
+but i had met conflict when i usr cr branch with lijie,i solved it.
+liningbo(李宁波) 11:15:46
+i think we should edit the conflict file manuallly after git pull,and git commit ,then git push.i solved the conflict by these steps.
+kevinc(Kevin Chen) 11:18:08
+Awesome. That's exactly it.
+kevinc(Kevin Chen) 11:24:17
+Tom and I want to mentioned that you want to merge in "dev" back to "cr". Since it'll have the bug fixes and changes. In practice, it's best to sync with upstream everyday. Back in the days, we use a model everyone has a cr branch, and this is similar.
+
+This is how you do it after your commit your local changes.
+git checkout dev
+git status // git should tell you nothing needs to commit here 
+git pull origin cr // git may tell you have conflicts
+git push origin cr
+kevinc(Kevin Chen) 11:26:17
+Let me or Tom know if you have questions to the above step, and ready to code review, then you'll merge back to dev for QA testing.
+liningbo(李宁波) 11:31:17
+no question, i will try these steps today and sync with upstream one or two days.
+lijie(李杰-Li Jie) 11:32:10
+OK, i will do it  after over some bugs today
+lijie(李杰-Li Jie) 11:36:07
+I have done sync . no conflicts
+lijie(李杰-Li Jie) 11:36:43
+do i need use commond "git checkout cr" ?
+toml(Tom Lianza) 11:41:45
+that command will switch you to the cr branch
+toml(Tom Lianza) 11:41:57
+git fetch will sync you with the remote
+toml(Tom Lianza) 11:42:15
+and 'git merge dev', if you're in the cr branch, will merge dev into your cr branch
+lijie(李杰-Li Jie) 11:44:55
+let me try, i now in cr branch ,  first user "git fetch " sync with remote ,and then  use "git merge dev " to merge dev into my cr branch?
+toml(Tom Lianza) 11:45:55
+actually, I think I skipped a step
+toml(Tom Lianza) 11:46:06
+'git merge dev' will merge *your local* dev branch with your cr branch
+toml(Tom Lianza) 11:46:24
+but, if your local dev branch is out of date, then 'git merge dev' won't do anything
+toml(Tom Lianza) 11:46:59
+git merge origin/dev will, I think, pull in the remote one
+lijie(李杰-Li Jie) 11:47:55
+ i now in cr branch ,  first user "git fetch " sync with remote ,and then  use "git merge origin/dev " to merge remotedev into my cr branch?
+liningbo(李宁波) 11:50:21
+can we directlly pull dev branch from remote to our local cr branch by use git pull origin/dev cr?
+toml(Tom Lianza) 11:52:25
+I think so, although I don't usually work that way

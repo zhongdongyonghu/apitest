@@ -1,0 +1,50 @@
+vela.ns.detail.get
+
+[cid]
+1.cid=71
+
+fields:'',
+cid:'71',
+is_hd:'false',
+page_no:'1',
+page_size:'20',
+sort_by:'6d',
+is_contain_oos:'false',
+is_recommond_first':'false',
+'selected_attributes':'[{"attr_value_key":"v1879t0","attr_value_url":"hall","attr_key":"a134t0"}, {"attr_value_key":"v1878t0","attr_value_url":"garden-outdoor","attr_key":"a134t0"}, {"attr_value_key":"v4168t0","attr_value_url":"short-mini","attr_key":"a156t0"}]',
+http://192.168.66.51:8081/api/rest/app_server.php?is_recommond_first=false&is_hd=false&format=json&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,cid,is_hd,page_no,page_size,sort_by,is_contain_oos,is_recommond_first,selected_attributes&timestamp=2014-09-14 11:28:48&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=h1n6ieufeauh91so8ksl9vtgp7&app_key=V06GF3A2&is_contain_oos=false&currency=USD&page_size=20&sign_method=md5&sign=2553AAB8093F5CF9011A59939F62A70F&language=en&cid=71&fields=&selected_attributes=[{"attr_value_key":"v1879t0","attr_value_url":"hall","attr_key":"a134t0"}, {"attr_value_key":"v1878t0","attr_value_url":"garden-outdoor","attr_key":"a134t0"}, {"attr_value_key":"v4168t0","attr_value_url":"short-mini","attr_key":"a156t0"}]&sort_by=6d&client=vela&v=1.1&method=vela.ns.detail.get&page_no=1
+
+2.cid=72
+http://192.168.66.51:8081/api/rest/app_server.php?is_recommond_first=false&is_hd=false&format=json&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,cid,is_hd,page_no,page_size,sort_by,is_contain_oos,is_recommond_first,selected_attributes&timestamp=2014-09-14 13:29:08&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=h1n6ieufeauh91so8ksl9vtgp7&app_key=V06GF3A2&is_contain_oos=false&currency=USD&page_size=20&sign_method=md5&sign=941A535CC99977845177CA7E2123BCD1&language=en&cid=72&fields=&selected_attributes=[{"attr_value_key":"v1879t0","attr_value_url":"hall","attr_key":"a134t0"}, {"attr_value_key":"v1878t0","attr_value_url":"garden-outdoor","attr_key":"a134t0"}, {"attr_value_key":"v4168t0","attr_value_url":"short-mini","attr_key":"a156t0"}]&sort_by=6d&client=vela&v=1.1&method=vela.ns.detail.get&page_no=1
+
+3.
+cid=200(catrgorys_status=0)
+http://192.168.66.51:8081/api/rest/app_server.php?is_recommond_first=false&is_hd=false&format=json&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,cid,is_hd,page_no,page_size,sort_by,is_contain_oos,is_recommond_first,selected_attributes&timestamp=2014-09-14 13:41:58&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=h1n6ieufeauh91so8ksl9vtgp7&app_key=V06GF3A2&is_contain_oos=false&currency=USD&page_size=20&sign_method=md5&sign=77BBE70D16F09B64992BE2B1EE34F167&language=en&cid=200&fields=&selected_attributes=[{"attr_value_key":"v1879t0","attr_value_url":"hall","attr_key":"a134t0"}, {"attr_value_key":"v1878t0","attr_value_url":"garden-outdoor","attr_key":"a134t0"}, {"attr_value_key":"v4168t0","attr_value_url":"short-mini","attr_key":"a156t0"}]&sort_by=6d&client=vela&v=1.1&method=vela.ns.detail.get&page_no=1
+
+cid=0
+http://192.168.66.51:8081/api/rest/app_server.php?is_recommond_first=false&is_hd=false&format=json&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,cid,is_hd,page_no,page_size,sort_by,is_contain_oos,is_recommond_first,selected_attributes&timestamp=2014-09-14 13:52:23&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=h1n6ieufeauh91so8ksl9vtgp7&app_key=V06GF3A2&is_contain_oos=false&currency=USD&page_size=20&sign_method=md5&sign=7228EE16E3C957CBF311EAE886563E65&language=en&cid=0&fields=&selected_attributes=[{"attr_value_key":"v1879t0","attr_value_url":"hall","attr_key":"a134t0"}, {"attr_value_key":"v1878t0","attr_value_url":"garden-outdoor","attr_key":"a134t0"}, {"attr_value_key":"v4168t0","attr_value_url":"short-mini","attr_key":"a156t0"}]&sort_by=6d&client=vela&v=1.1&method=vela.ns.detail.get&page_no=1
+
+cid=1
+http://192.168.66.51:8081/api/rest/app_server.php?is_recommond_first=false&is_hd=false&format=json&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,cid,is_hd,page_no,page_size,sort_by,is_contain_oos,is_recommond_first,selected_attributes&timestamp=2014-09-14 13:59:10&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=h1n6ieufeauh91so8ksl9vtgp7&app_key=V06GF3A2&is_contain_oos=false&currency=USD&page_size=20&sign_method=md5&sign=DB3DE8F576103BF710AB0C28EF80808A&language=en&cid=1&fields=&selected_attributes=[{"attr_value_key":"v1879t0","attr_value_url":"hall","attr_key":"a134t0"}, {"attr_value_key":"v1878t0","attr_value_url":"garden-outdoor","attr_key":"a134t0"}, {"attr_value_key":"v4168t0","attr_value_url":"short-mini","attr_key":"a156t0"}]&sort_by=6d&client=vela&v=1.1&method=vela.ns.detail.get&page_no=1
+
+cid=-1
+http://192.168.66.51:8081/api/rest/app_server.php?is_recommond_first=false&is_hd=false&format=json&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,cid,is_hd,page_no,page_size,sort_by,is_contain_oos,is_recommond_first,selected_attributes&timestamp=2014-09-14 13:59:52&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=h1n6ieufeauh91so8ksl9vtgp7&app_key=V06GF3A2&is_contain_oos=false&currency=USD&page_size=20&sign_method=md5&sign=6DBE5700CC48083B9D23716FDAB82B4E&language=en&cid=-1&fields=&selected_attributes=[{"attr_value_key":"v1879t0","attr_value_url":"hall","attr_key":"a134t0"}, {"attr_value_key":"v1878t0","attr_value_url":"garden-outdoor","attr_key":"a134t0"}, {"attr_value_key":"v4168t0","attr_value_url":"short-mini","attr_key":"a156t0"}]&sort_by=6d&client=vela&v=1.1&method=vela.ns.detail.get&page_no=1
+
+cid=english
+http://192.168.66.51:8081/api/rest/app_server.php?is_recommond_first=false&is_hd=false&format=json&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,cid,is_hd,page_no,page_size,sort_by,is_contain_oos,is_recommond_first,selected_attributes&timestamp=2014-09-14 14:31:24&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=h1n6ieufeauh91so8ksl9vtgp7&app_key=V06GF3A2&is_contain_oos=false&currency=USD&page_size=20&sign_method=md5&sign=CA7229F65ACC8E0A1DE85494BC740763&language=en&cid=english&fields=&selected_attributes=[{"attr_value_key":"v1879t0","attr_value_url":"hall","attr_key":"a134t0"}, {"attr_value_key":"v1878t0","attr_value_url":"garden-outdoor","attr_key":"a134t0"}, {"attr_value_key":"v4168t0","attr_value_url":"short-mini","attr_key":"a156t0"}]&sort_by=6d&client=vela&v=1.1&method=vela.ns.detail.get&page_no=1
+
+cid=@#$%^&
+http://192.168.66.51:8081/api/rest/app_server.php?is_recommond_first=false&is_hd=false&format=json&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,cid,is_hd,page_no,page_size,sort_by,is_contain_oos,is_recommond_first,selected_attributes&timestamp=2014-09-14 14:31:43&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=h1n6ieufeauh91so8ksl9vtgp7&app_key=V06GF3A2&is_contain_oos=false&currency=USD&page_size=20&sign_method=md5&sign=FA59CB04DD01610476086BED4901E285&language=en&cid=@#$%^&&fields=&selected_attributes=[{"attr_value_key":"v1879t0","attr_value_url":"hall","attr_key":"a134t0"}, {"attr_value_key":"v1878t0","attr_value_url":"garden-outdoor","attr_key":"a134t0"}, {"attr_value_key":"v4168t0","attr_value_url":"short-mini","attr_key":"a156t0"}]&sort_by=6d&client=vela&v=1.1&method=vela.ns.detail.get&page_no=1
+
+
+
+[selected_attributes]
+1.Ñ¡Ò»¸ö
+{"a3312t0":[{"attributesValuesId":30651}]}
+http://192.168.66.51:8081/api/rest/app_server.php?is_recommond_first=true&is_hd=false&format=json&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid,fields,cid,is_hd,page_no,page_size,sort_by,is_contain_oos,is_recommond_first,selected_attributes&timestamp=2014-09-14 18:16:34&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=h1n6ieufeauh91so8ksl9vtgp7&app_key=V06GF3A2&is_contain_oos=false&currency=USD&page_size=20&sign_method=md5&sign=FD8E0CF9878C5AEE09C5B0FCE4332D92&language=en&cid=224&fields=&selected_attributes={"a3312t0":[{"attributesValuesId":30651}]}&sort_by=6d&client=vela&v=1.1&method=vela.ns.detail.get&page_no=1
+
+[{"attr_value_key":"v30645t0","attr_value_url":"wrist-watch","attr_key":"a3311t0"},{"attr_value_key":"v30639t0","attr_value_url":"ladies","attr_key":"a3310t0"}]
+
+[{"attr_value_key":"v30645t0","attr_value_url":"wrist-watch","attr_key":"a3311t0"},{"attr_value_key":"v30651t0","attr_value_url":"quartz","attr_key":"a3312t0"}]
+
+

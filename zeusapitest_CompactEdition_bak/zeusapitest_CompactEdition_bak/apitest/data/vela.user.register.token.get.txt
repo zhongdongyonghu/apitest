@@ -1,0 +1,1167 @@
+﻿vela.user.register.token.get
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?client=vela&format=json&method=vela.user.register.token.get&app_key=V06GF3A2&app_secret=f838905ddd031399ffdm8n3mymrrzomk&v=1.1&sign_method=md5&timestamp=2014-05-22+06%3A56%3A33&language=en&currency=USD&sid=q1eodcb3krcqirt54eona4ijs1&keys=client,format,method,app_key,app_secret,v,sign_method,timestamp,language,currency,sid&sign=007DC7E1036AB0ACB0204B391AE97D6E
+
+[多语言]
+"G:\Program Files\Python27\python.exe" F:/zeus_api/多语言用例脚本/vela.category.brothers.get.GenerateCase.py
+{'currency': 'USD', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=13F546369776B401B8499C82C1EC2F21&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=18C7257076ADDA1536C4313A634E6C54&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A422866C8889F655F23E9F7656BD4086&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=879EC51AFB7847FB7259AEC16847CF5E&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E3673FF4DB84D52CDAFF5780102B7B02&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=40D8FB46F8A8E5DDF062F1AD8DDF0BD8&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=120A6D85F96A031A012F745A55944B26&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D520AED0AB47395A76CC619177339224&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=DEB7179A69E2CEA0B2830644EBE0D2A3&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B9FDCF5B97E447D35484ED592254B5D6&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1D2F3999FD4A6343FCF9FCDA0306A1B0&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5B61EDC8993AA10686755863645BE282&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=54730561A787630522CBB623FB3C3D5E&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8D10F645EFF4E914173657C0A836A74B&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A08EA37176CAE22869DF6844CA6D7281&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'en'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=en&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=534031E785120ED1AFCC115A423B8B43&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2C30511289F97EB434D11C594E00DAB2&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=41ECFD41E808076257E384E97ECE8C05&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0EAC20458288D20CD5C02C448B63FA26&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9A727DC9E0A67AE618FEFE6C52E7FA4C&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EBC822BAB171852C97C2E3D781E5B94A&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7DDB4AF008B7D758643D9190E2086AC6&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B6B2AD7897D798C6C0436F7803E5E3FB&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=608D5D06BBB0FC60D7EB005F8473BACA&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3F4A959A5A5C76285D274999FAED771F&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9BD1702FB4603331936EE5C187824774&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=74EA1661EC7CAFBAAB18BE9A3E8CC3FA&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=95E6961358117EB668395BF61F717FD9&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0241811351A0859EC7BD9657758E56DE&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=225B84A7A29680C508A355A052E946AA&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EA854E900C9D9AD6EA1FF471B547992E&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'fr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=27F5993D894FCED7171AA8E3CD5305B3&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=011C81DAC9699EAE14DDF3E993A2903C&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C6A2107682A867C162EF6D5F444E210D&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=097A426CF41ABF13554B271A3F20C766&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0235FCEB23F951ED3097843C8BB71D3E&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F5F807A915859BF73995E4E6741CB928&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9BF171E7031055F2E9FCCCC7B73C5812&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3B3B7E5FA2F2630F112102DBAC236B66&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=94CD1755918671F7B91931D71279893F&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0F78E3A339DC1236E7B4C48F7B7F5B5A&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2E197FB03CB978A3A49EDA798218C827&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7FE87512AF2D12870B5E8E4C26F90199&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=91F59EF339F0D043768274EFD623270E&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=227141203C77CA4F154F6182755F9CD1&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E54267A1344C778C901F32BD11EE6D77&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D02B9C18B53F2BCB13C7F34A79CFBAFE&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'es'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=es&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=03DAF7D5ED625A6055F3BD278EB68B8A&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B71703168B30DF1C1252952420F4BB64&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6DA05E3B1435153F95FB94696D346EF6&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5FC9389BCCC84CDA439CD3814CE7BE05&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=66B232322D2B96A5A597093BDD138D19&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FC48747AED9816EE7506A1BEF9E91824&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2C66E1DE620A7EC67160D3CBA53F6383&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C0D44038A9D2C3A8E8ADDD64DC47A9EA&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=CDDF9809531EC326D4B2ACA08C962E98&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=796C2FB77780BA2C9677519A83F6932B&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8C3ED7EDAA9D6F0B8557E08D66CB6269&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B4ABB756C50FE8EDA18CE96FDEF09FD1&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=30F300E813351F95C051910EF0403FD6&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9C438A1269B981307DFF6427F869A07C&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8FF0B9D11320EEFE1E9C923C35038878&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FB7E72B6CA5737E85B69FCCAF2223DA4&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'de'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=de&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0A6812927DF29F64F6D9216AAFAD0408&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=844D8381B75AC9FD02599842CC410F4E&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=35D255E89D61BECC0EEEF71BEDA91555&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=123FFD225DF5AB577AA43A8CD0092E2F&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D495CC31E9D0BC3B897610B61B91B3A6&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3566B85303386626819976FB7FFFB518&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B739D43001E0E4EECEFEC02EBBB17BFD&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8EAB9C7A4DA19564F769EF3D6F4590CD&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=06DD2043354821AF2BC81C9B37486D31&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F5761B5876131A6F2F36885C51A31D3D&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F8F457DA6F289FC5CC8874632DD7CC41&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E1FB448F793CC3B90586EC664837E1C8&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F85BCB6A047CA58A2BBC23733EA4178A&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B1244F100EFECACAFED08E9CF99E1A16&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=BAF6F2E4311E482CBF1FE1FC20991452&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=36FC5D00540F74DCBF760B914BCB5A57&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'it'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=it&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=DF8992D679E3FDA1DC2512FC7AF7D98F&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=29AD7FD063B52696B493D2DCE240D731&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E89924D176AE3C2320988B68A337FAFB&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F8549A43F76047DA0EBBC6513567A571&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=61B137E22477DF051B3F5626C83D474F&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1E061DE80DE4B0C3CD48D4AC1CFB0C6B&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E0AA93AE990D300EC6C8018B2E566A31&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6E70B529FF21354DAE069E8A8FBDC6C4&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A70FF86A5A9A469E6822058941934787&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=563C9F3D5A2DACD3A93015D8D14DED05&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FDD2B11BD109F92CB585009BF453EB4A&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1C91C3F2DAAB534C1FDB9F0785BA9430&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=47286679AE2B49C13D53C6333E631860&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2E46CF5F0240DAD9ED466C853234653C&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=22AAE3C5991E0F691AAA7605C8ECB8B9&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B0251DF5ADDEE81E0E593B7FFDDC278C&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'pt'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pt&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A71BD20B7311815F0102DE5914081B53&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=95C13A9BEEB0A3E4AF09B38E6BA7D0B6&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3E1EC61DF8704E9266D8E29EF7F31A92&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3EDDA9752B2787E07136BEFDEBA5685B&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=41E13E3341AA191B512CCC8E6091A006&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3991FDDB0F01BCD95DF72353DF9271AC&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5D81694A4D45F688A15BC60BE31CF28C&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3222829B3C80E4B945E6A10169F4359A&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=679F494F602D7BBC4043777DD70B56A9&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A590007387DECE48F55B5E2121CB98A5&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=14BA933CF4E85B029FC6EEB92561F2B3&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=66B1407D77E908AB629307A1BC6B75CF&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A00&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E401F676C0C713113FE3A52393FB89D7&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FEE8CD12DEAEFBEEEABB903300270B73&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F6191F76157B1308BFA901A8CC8FCD07&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6BF0DC5D85EE8E5A3946904109FD62F7&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'ja'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ja&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B88408BE01A22C09AC29763EC40A80D6&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=4348ED009EED36FA5F7295678A4BA47F&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9899E6A6EDB38463CCCA749F902851C9&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A255BD3AACCF62689723135A591FE8B8&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6B2D66EE0C0376E8A65C6DB728C61542&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1802260102F4165B7718954D10E14D06&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8A9ADCFB42BC576097CC0BFB4B239840&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=DD488FDE61C4DC023FC03D055FA7F67E&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5F14A8A44376D424D18DCCE49FD01A6D&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B2D35260A58B92EF858F699591F62380&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=48370E2F0E84DB94267E14A028D62283&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C571BE9CD7053B7ECDD36A510198C19C&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A1A710AB30C5BAEBDEAB1B82569DAB5B&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=52A887940DFE9E56C989298BD5C629B0&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=69ABCC00D0A2C9349E9D67C9A77BC239&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7C4EE17E709A9E31F69EE9E550BB8C84&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'ru'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ru&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=68A23451D8824ABD0E02BC7FA3391B93&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8185F7F824F41F1746BF452959D90043&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=101EA1A9DE18B3F783A217D118232985&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=AE90612A22EADC2D101F577C77D1D8F1&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5CB8871DAAC5E804F1E6D8EF2235B154&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=023291FA469F9ADC364BE72776A1133B&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2B6A1F4C3F5041069897E4D7D6AE4921&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E556CD58C7236E6A6FD75749FD8B15CA&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=72F173E111773D8D9891D8E25E8EB710&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=539125367187AA110CDEE0F2D23D22E7&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=27BB253BA233DE260E9EBD888A9CB7B2&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=21D176E3B1F390B5743EDB51881ACCB5&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2DECB0745F637A35627AEAEEA770A224&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A404E4753498DEDFA099C3492CE89499&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=96A0B0AE3FBF8A54E34CA624DB8A0085&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0B4DE4308A3243C8DAD9B07F0A6ED7CB&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'nl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=nl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=450D1A374E62BC4D8BDAF031BDB85AEF&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=818DF5D18042E2F533DDF16BD121CF78&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=4B8FF271360E9D106F9AD436C93FFC3E&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=AD51F2343D50008D81FAA951100C716F&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1367212C9834C3F7A82416F988B860FF&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1AD25B97B86873DD3FDBF1E343B76D99&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D1BF1C36E7A694F24FFD04EC42D95D8C&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=80D5CD84CAEB68506D9538821DFD6734&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E659BA300F1726128F91667289C079E6&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7192D4DB5E53BB3F6C1A160D95B6CECA&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EF6307CEEA9779D700E0A9977C30D797&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=31EC16029A02A789F35021CB0A12C685&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=68484F9B39E43368EFD45F48A2EFF3CB&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7A04B9E335EF01890D52ECD46B0B0778&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A875BFA6E2B2E21286FA53D19318499D&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FC05A49B1E85FCD986D2AE2F06736F56&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'no'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=no&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2C37598F949641AE26A90F7281D2D299&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B00D8E5195E52E517D40AA7479C6B743&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FF83003B11C1068DB9FF5D5CAE63C8F7&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D672E2EE885924239DE325F58EEEF303&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=CFE011D741C2B1090AA60D15C7D2A23F&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=30BE023A59085F8DC9D290BF8BD6255E&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7F0F14EA1A6C0752005F2C8E86B16560&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=945BF780B4D40F5A9742D1AFD48CD76F&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5850F1FE5CAEAF7D59058398718DBF86&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7838772410E3A87B6DBBF9B65DC3DBE4&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=17DA45AD43143146483A5339DE87AB23&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=01A668295D39A6768CE5E6B12A19E01E&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0DEAA9C3817B3E1A3F60E2072E4F4A79&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E60525FB827E3A99B422A52D1B267D88&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B7DB5329DAAAE1411FE2A90E148EEED1&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EBDC5EE34A7ADCF8A42D0A6B3B877595&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'da'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=da&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=643B5DC330980FB8EBA8E0CB9DAECF5B&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=282EFA530C28AD7D37C13C5EA2783ACE&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=BC082C6EAAB26CC476E4272C84A64C2E&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8F0EBFC70BA8E65755AF111F805F7BEC&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B84234DF0AB1C002630C2AA96E95A996&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B0FD18877F90D7F182026A04943ADFE0&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6577ADE12CE04BB95D618129F19B857C&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=DF48A0D13932BC3739B0DBE280DF8C83&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=4B9D21E6014C362C8EAAFB5BDF95B9D6&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=692738E3A8B983DE90AD21C2C2A1E462&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=733BA098C7F896A63C52560ACFA17713&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5D265AD08560F5909DC065F6578F998B&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1D3550FE8F5DC3355CD39A56E2EDF967&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=907C23AAD460D9068FA7A6D5D9464463&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=04361E7E8CAA65F096B7F9F7C708A807&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E00325F06C644E317723E199EE8EEFE1&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'sv'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=sv&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2A01C87DCAA6116428C9B6C329012758&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=28FD955073194C46E159781A3C5F5254&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=25C155C12A93D9AA2D9796C543C757A7&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=4182022FB22D7EB247C7D001919DFEF2&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=62D2E9EEB78DBB916F14C8BDE2098366&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E2063E243AD72387F21EC51BA7CE52E1&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=223341BEC7B862E1FC84DB1EE8E94DA9&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=19DC0B894FB5FC9FC009C41A0C49D7F5&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D6883FB5E6568B68DD19C32FB12E5C01&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D66AAEA6C2D50E504E6BAC3C24D557DA&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7C2916FB386491B5278E4D4AD279429F&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=99CE8135E464DFC98EB2738B6487CD47&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9485F9B3FEA4FB377927D7C509490136&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=368E1407596AC767D496C4A8A03C15E1&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=60F34586BFDBA055CA6B6F1C238AB5DC&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A6E82D96D2D6F12B4FB9B5203FFF9C5A&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'ko'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ko&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0E73F3DEF4071503787AB9925631B660&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0DB5B4441B9E40F44555B8DD148F2EBD&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9DC058654E2D09815206FFFC5B18D288&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=AEA6CD43F48B469AA1BEE46F6DF098C6&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1F455D72ABAD0D4DE9362C6BE7AAC682&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B2D6F808DB3CF68C55DF330542A5DEEC&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C2B46CE13158C3D26C6BEF2AA5A70EDE&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E1B0CDE3FA7A2D2599611437576B445D&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B782268B8688EFE1C64765F63C0B6B2E&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2B5053759B39F75AAA0FFE429256A6D4&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=BC932018B91AB5FFE80CE3F3AED78A5E&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D092B1C2C86912B135DECAEB25A1741B&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6C23FE5090A23E060212A7EAF083B2B3&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=90481FBB343A6D5DD2FF482041392A57&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7D4B058B1B0236D2A28A69555D94BC2E&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=68B263EC28180B5D894F46A3D76BEAEC&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'fi'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=fi&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9C2F8955EF384B0797D5A944BCBE5F6B&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A54FC4DBCE1A7ED10CB940583EF48E56&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F4194E202D1A99E9B4D89AEE5BE2A78F&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E523A3F184A0FD97223034B04BADFB4C&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=45BDB558B741242B97AE0F232C8337C5&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EB51A653357445A42E3AC95CB6F2C6F4&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=04C0A3AE2F075697BB2020DB7545060D&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=20ED2F781C24222D55DE09B7A1A4A8A2&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9F985C09DF9FE160C23290560AE88B74&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8CAEB4FC02516E024920CB9C305C3120&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=86577CE0E57342DD0038C9213DFF06A5&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D5DB70569FC4A598E19D23FEF03CF951&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5E57F7A2E7883267B997046A8173AD29&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1B92A5DE9D94C5CA933E8BE2E787D045&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B30C54FAC3F5FDB5F083133CDA00D0B0&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EAB3FC1FB1B9A27A4524517A6B4AA60D&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'he'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=he&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7B0E54C65A5EC84F56DE9DEF2C74EA9A&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=433874F01D098C57AC89E4E81446D7F6&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A975480A6C886282B63EEE970F3029E1&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=383263D46D8694F86C9D178DCA743A75&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9F6B1F7BFDD78FCF1DCB54B6B070819F&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EF0B9ABE67AA87F814CA0A3B0906B2DF&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=DED2E001D3C4E1A1B3AAB9A05A67E13E&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E4CFD40CDEE13E74DCEECF9B61069DFC&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F6799CA9CF2BFA1495B207318E670A55&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=10CB1B289B9675D6A4845AAB508426ED&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E08FD254A42E449493B34A86282839B0&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=44573167E83E24FF6DEFF6952A17E908&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=BDF0B3ADA2DCD8B4BB0EE743F137FFE8&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C6DE7E942225A37E84DDC667C3E41BD1&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F2EFD0E9A6BA960422929FB4CE73B926&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8DE54677805A4BD7903CAE4F7A07D868&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'tr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=tr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=CC04B559130B297EB1FA5EB695A3E3F0&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=37BEF92F7802F82EA0A3F53463C39625&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=57D1A07F9C8B116667418FA7AEE54BCD&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=38B39FE8259C610AE783B5ACF6F8A7D6&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2A4F12795C74074626236AB309A0A6CE&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=43255F1FAABA20B7DB121C9AF0F33C32&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=4F07351E99986147435EFB89DCFD457C&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=AA58D2E534D9D0B1315419EB5FF99AD0&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=29644D09F2C26FB5AD5B48269286AEA9&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6434932A77349D99A1392DA7815061EB&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=4C6F8D04AA6043DF7B0C961D6EBEE764&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0D03E4FA71744C27D82F403A3F61E182&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B9B5CD5D2A603833959663982D3C60F3&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2ED9E6D1E5A2F020020C12B0E4181153&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=40475F5FF97A811FFC78EBFD2D64D8A1&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=BB46F18E6A4807E7B958D5E4A4CB3B66&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'pl'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=pl&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=460329E47DE0B327CB21F1DAAB89D08A&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=087B8F189A8E309F280C235D9C8ADBE6&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C5547DC37787C26D589924C6D1419C47&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6B23B6D51EB7381518CF2271739C2419&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0B3F38E823D5672AB5A8126FC68AAD8C&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5E3300B3BAF0955D0DEA65DEA0EF529A&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B5390B5FA79FE098BE2CBC82446A440C&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=BA5CDC6E4B4352DBB533F6746872CF47&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FCF128E5231A38AF4AA6500E109ACCF3&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EA15D9913ED14DE8D0C983104176730B&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C9143DC0862991FD40C6C028FA349828&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8691DE56DDEA85550FDEAEE3937FFF1B&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0525FFD71F344E5012833DF1B73019D8&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3019343EE43CB144401037E68D56E590&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7AF56E5B4C0F223A775ED1A53301612B&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A8DB6B64FBB69B508873D5366FCEA3A1&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'cz'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=cz&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5685D7804693E572664E34D4C4158FF9&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=076D9F7E88DF9E6FAE3F6100019FAE3D&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A138CBF96CA4A2105F1B9EEB945161A9&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C3001176709F444E77A2E9792E3003BD&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6F581217482A2A5306D7194C17E29AE6&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=97F8A9FE57D60CA2972D9BE24EF98855&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3E5F1D412ACD9E12633144FC448FF307&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=DCE19C2EE5EE23B8F2D33D72203082B4&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=CC50F39DB898F940F69D258BCCBE391D&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7D6D3526EBF4ACBDAEB9EA5E5BAEE3BF&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D2177BEB5F36A2C8F321A1E7B175EB2A&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9DA654C12DA40E284709069F3D0B9895&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=560B238FDC0A86EC8AC232D59D8F4FD6&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E0DFAD939D88CAB4DF139D6BE86776D1&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7249A45F29E6E7D7B7B87C7E15D74ECB&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=4309995BE10FD05A8646B9A05202EA05&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'gr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=gr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8993A5781890850D705F556CE30B5C6A&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B7FC647832E84BBF5364AF41093486C6&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=6CD39AB79976385D1E61DAD7A7D7A82F&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2B61177D0E9F619B80ED91F674F72B77&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=009B3EC2D247F43677828AC598C25E7B&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EF5F372898117D657034B7ECAEADC1B3&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EEBE5E4A650422D879DEB625FBCBC0DA&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=30207347245DC7DD8334F5924F1D636A&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E1592CE65E637A170A26D2E3329C6908&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=945D19486A373C14BBF222735B10B766&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E10ADF102B79A165D34C2933B82FDAE3&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=580EBE2ED5949919A7D271A1752A7D0A&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=DF7ACC73332118C4A6B205AABFE4FA5F&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EEE78097F6B9CA76DF32C09788B0EA09&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5361D69CAF0B229DDFE10BF406BB6BAB&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2421F67A5E713CC82669F209FEF0CDE9&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'hr'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hr&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FECDD1661EA521FDC11588775CE8728D&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0FE676C83845B37A72A2D8FBF01455CE&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=19114E71D5A0076526CD8337ECEB7EC4&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=54D0022312A7C666DAC27463AE83F0D7&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EC4CD821AD636F26E6E457D174FD3EDA&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=650144D2092D4C0431F78C0DB8AD9EE7&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1B56552D4B753493D5E0112E607D8CEA&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E2CDF025C9382053BD5B2DFFC57044FE&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=79E8C375A68E4E21F5D9AF85BA6E1377&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5C6454C524E6F5988311FFC8C751E3D7&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=4176CACFB01FF8223024694967C405E0&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2A6883B6B24F45FFDC07F294E9F29792&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FFAC350A7D044CA2362580AFE7D09F32&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=85E6EBA5DA120526F600FA670F9537FD&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D5708A1B2863F49724E4BB0EBD1B0F93&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C00A3687C4261886608B76D2D4EDAD00&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'ro'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ro&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=32CA1C1C2A00D1B769B20D596859C92D&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A75B2951BF292892438F038E597827B4&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A484DFEFE9D36DB4FFF66D96D0A93F40&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=7BBDBF88DAF6EB0C829DAF97DBF56254&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=05E9CCD57EF55F775FC152BF7FFA15EB&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B709C3A3F7D56C3DE867469C5B130939&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=F8708775955381F51872C448DF793ED8&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5EAB140AEE9928579F56DA8F49EBE151&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=BE3F1B24B49E6F493485DFD04299E4F2&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=B84AC8FE7F194E3ACE39FB9B4CF1D484&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=66CD2D95243548F31F4C6C5914F5A8E8&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=FD13F62FA841D8BFB00106176EA30E9C&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=EE4E10074AA6D7AD103CCBB121C0EF14&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5E57B715DD69A16BADF7407F2E35886E&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=869E0B58ADE550A15BE6310F0D87E73A&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8FE63D7146A00FD0B49A13047A1BF29C&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'hu'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=hu&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8C48541948E4DA3217B18015625ADAB3&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0C6076F185CF3D4D4CD6BC1BA13D50D4&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=370882C48EA7C9093A19597E1D7FA04A&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3BF943FA6D9EA97F5203D834183DB679&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E87CFC58F4F2B14A4C37D8D8B1896B89&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=C9FFB1A1475EF3C8E0BF10C21C0689CB&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=4B0FA66A781E2C50EB6A5C3D53959A3F&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=52200F99A36A90068140EE83A7902E5B&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5E36F0F801E1808A551F5C832F7853C3&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0548E45EB25A684A690A67FF120F99C3&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A72ED97165285EBF888FCDCFD53CBD5B&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=0C36A5571410F9DD2BF02494E8C1C6D6&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2B479FB09C14FD47B5BE2FC9F3D4A300&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=A4EE20739C3CED8B734B304FC394ADA2&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=157060A9834A9802B645EB8EE7508623&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8A4FF69CCAC74B9860C48C49C9532AF4&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'th'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=th&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5829F7EFA75F6A3EE2CDCFC1078F7675&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=9447946478A1A0A55355D0E9A9319A80&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=5F13928AD5F2BF168A2B5FB9C8FFB453&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=3484229FE844E371CDA93DCF2BE95124&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1E3E899BCA2E3EFAF679C8D5C9222A40&currency=BRL&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'RUB', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=130744466EE3AF42C9E016B625B25CCC&currency=RUB&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'EUR', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=32453CF545991A2A6920BB18D913425E&currency=EUR&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'GBP', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=94825ACE87E1304FE747AE2424F60062&currency=GBP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CAD', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=8AB8CF8825A6537C3B0DDD701F0A4294&currency=CAD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'AUD', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=680C7A2B133315F0CB132CDFA4B96F1F&currency=AUD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CHF', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=90060CCA9B796A4D1A905EF1B3D51822&currency=CHF&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'HKD', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=1C52C057A346400073D7BD25E4D80E24&currency=HKD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'KRW', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=697B78C6727EF3166B0EBC725B5BEEFD&currency=KRW&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'SEK', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=16F9186806BAA7CCFDD9DE3FDAB4C988&currency=SEK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'CLP', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=73FCD8F422EB57D6DCCAD124912EA11B&currency=CLP&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'JPY', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=709BFD1E646A09D4C903B52103457EDA&currency=JPY&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'ILS', 'language': 'id'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=id&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=E7A6E3AD6F2A1D36B56BD691201BD326&currency=ILS&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'USD', 'language': 'ms'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D253E5A5E724FFCCC916A6BD4CA5114F&currency=USD&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'DKK', 'language': 'ms'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=D025F69DB42DD648EB9B35EEB6E33853&currency=DKK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'NOK', 'language': 'ms'}
+http://zeus-m.lightinthebox.com/api/rest/app_server.php?language=ms&format=json&keys=client%2Cformat%2Cmethod%2Capp_key%2Capp_secret%2Cv%2Csign_method%2Ctimestamp%2Clanguage%2Ccurrency%2Csid&timestamp=2014-06-04+08%3A30%3A01&app_secret=f838905ddd031399ffdm8n3mymrrzomk&sid=ns9sadv02v0btf98b32mtj0753&app_key=V06GF3A2&sign=2E62B98D0EB66C2B7FA5C0A42AAD30E4&currency=NOK&client=vela&sign_method=md5&v=1.1&method=vela.user.register.token.get
+------------------------------
+{'currency': 'BRL', 'language': 'ms'}

@@ -1,0 +1,101 @@
+﻿/review/userReviews
+[有评论回复的账号]
+litbmini@163.com
+123qaz
+
+
+[pid]
+1.
+language=en
+page_no=1
+sort_by =空
+pid=1021065
+sessionkey=854c3b1c86842e89c7cb5b4a644ff80b（仿真下的）
+sid=h1n6ieufeauh91so8ksl9vtgp7
+
+{
+    "info": {
+        "reviews": [
+            {
+                "review_id": 1458236,
+                "customer_name": "liwei",
+                "review_rating": 1,
+                "review_text": "i very like it,very smooth1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+                "review_like": 0,
+                "review_unlike": 0,
+                "is_recommend": false,
+                "has_imgs": false,
+                "reply_count": 0,
+                "formated_date": "涔.. 14, 2014",
+                "review_imgs": [],
+                "review_replies": [],
+                "item_id": 1021065
+            }
+        ],
+        "total_results": 1
+    },
+    "result": "success",
+    "error_msg": [],
+    "code": "1000000"
+}
+
+
+{
+    "info": {
+        "reviews": [
+            {
+                "review_id": 1458285,
+                "customer_name": "liwei",
+                "review_rating": 1,
+                "review_text": "i very like it...........................................................................................................",
+                "review_like": 0,
+                "review_unlike": 0,
+                "is_recommend": false,
+                "has_imgs": true,
+                "reply_count": 0,
+                "formated_date": "九月 14, 2014",
+                "review_imgs": [
+                    {
+                        "img_id": "C:\\Users\\LITB-image\\Desktop\\wall-e.jpg",
+                        "big_img_url": "http://litbimg5.rightinthebox.com/images/review/big/C:\\Users\\LITB-image\\Desktop\\wall-e.jpg",
+                        "middle_image_url": "http://litbimg6.rightinthebox.com/images/review/middle/C:\\Users\\LITB-image\\Desktop\\wall-e.jpg",
+                        "small_image_url": "http://litbimg7.rightinthebox.com/images/review/small/C:\\Users\\LITB-image\\Desktop\\wall-e.jpg",
+                        "position": 1
+                    }
+                ],
+                "review_replies": [],
+                "item_id": 1021065
+            }
+        ],
+        "total_results": 1
+    },
+    "result": "success",
+    "error_msg": [],
+    "code": "1000000"
+}
+
+
+pid=824025(本人答复了的id)
+
+[]
+[sort_by]?????
+sort_by可以是：default, time, image, rate
+
+[language]
+0
+http://api.lightinthebox.com:80/api/v1/review/userReviews?language=0&page_no=2&sort_by=rate&pid=788859&item_review_language=0&sessionkey=ee466d0b0688e0fd102a7bfcfca2e584&sid=ufdgkqavvq6rk2tprcud1q9rl1&app_key=V06GF3A2&sign=D00F22F1F6546840B85647EB6BC85CBA
+
+1
+-1
+english
+@#$%^
+
+[page_no]
+
+[sort_by]
+
+[item_review_language]
+
+[sessionkey]
+
+[sid]
